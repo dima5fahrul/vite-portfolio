@@ -14,7 +14,6 @@ const Resume = () => {
               h-32
               rounded-full
               object-cover
-              object-center
             "
           />
           <h1 className="mb-4 text-4xl font-normal tracking-normal md:text-5xl">

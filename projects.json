@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "title": "Website design for finance startup",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-5.jpeg",
-    "url": "#",
-    "category": "Web Design",
-    "company": "App X",
-    "slug": "website-design-for-finance-startup"
+    "title": "Functional app for mood tracking",
+    "description": "My position in this project is as a mobile developer. My contributions include publishing to the Play Store, internationalization, adding advertising features, and several incremental updates.",
+    "image": "/images/preview-niko-mood.jpg",
+    "url": "https://moodtracker.agileteknik.com",
+    "category": "Functional Apps",
+    "company": "AgileTeknik",
+    "slug": "mobile-apps-for-mood-tracking"
   },
   {
     "id": 2,
-    "title": "Brand refresh for Technology app",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-6.jpeg",
-    "url": "#",
-    "category": "Branding",
-    "company": "Technology",
-    "slug": "brand-refresh-for-technology-app"
+    "title": "Functional app for note-taking",
+    "description": "My position in this project is as a Mobile Developer. My contributions include publishing to the Play Store, internationalization, adding ad features, and several slicing updates.",
+    "image": "/images/preview-seci-note.png",
+    "url": "https://notetaker.agileteknik.com",
+    "category": "Functional Apps",
+    "company": "AgileTeknik",
+    "slug": "functional-apps-for-note-taking"
   },
   {
     "id": 3,
-    "title": "Website redesign for Consulting X",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-9.jpeg",
-    "url": "#",
-    "category": "Web Design",
-    "company": "Consulting X",
-    "slug": "website-design-for-consulting-x"
+    "title": "Functional app for habit recording",
+    "description": "My position in this project is as Lead Mobile Developer at Agile PdBL. My contribution to this project includes fetching the Rest API in mobile development, assigning tasks to several mobile developer members in one team, and slicing several features.",
+    "image": "/images/preview-daily-habit.png",
+    "url": "https://healthyhabit.agileteknik.com/",
+    "category": "Functional Apps",
+    "company": "Agile PdBL",
+    "slug": "functional-apps-for-daily-record"
   },
   {
     "id": 4,
-    "title": "Illustration design for Edu X",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-10.jpeg",
-    "url": "#",
-    "category": "Illustrations",
-    "company": "Edu X",
-    "slug": "illustration-design-for-edu-x"
+    "title": "Platform app for document management",
+    "description": "My position on this project is as a Hacker Mobile Developer. My contributions include fetching the API on BigchainDB, fetching on Firebase, and slicing on several features.",
+    "image": "/images/preview-sidaeng.png",
+    "url": "https://drive.google.com/file/d/11ovFOwdFr_RWHOFPisluRJ4i_Lo28qyj/view?usp=sharing",
+    "category": "Platform Apps",
+    "company": "Self Project",
+    "slug": "platform-apps-for-document-management"
   }
 ]

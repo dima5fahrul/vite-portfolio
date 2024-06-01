@@ -93,10 +93,10 @@ const ProjectDetails = () => {
         </div>
         <div>
           <h3 className="font-semibold text-lg">
-            Website
+            Application
           </h3>
           <a
-            href="#"
+            href={selectedProject.url}
             target="_blank"
             className="
               font-semibold

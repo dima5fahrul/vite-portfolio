@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Brand design & identity for Sezane",
+    "title": "Mobile apps for mood tracking",
     "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-1.jpeg",
-    "url": "#",
-    "category": "Branding",
-    "company": "Sezane",
-    "slug": "brand-design-identity-for-sezane",
+    "image": "/images/preview-5.jpeg",
+    "url": "https://moodtracker.agileteknik.com",
+    "category": "Mobile Apps",
+    "company": "AgileTeknik",
+    "slug": "mobile-apps-for-mood-tracking",
     "banner": "/images/banner-1.jpg"
   },
   {
@@ -18,7 +18,7 @@
     "url": "#",
     "category": "Branding",
     "company": "Lacausa co",
-    "slug": "logo-design-branding-for-lacausa-co",
+    "slug": "functional-apps-for-note-taking",
     "banner": "/images/banner-2.jpg"
   },
   {

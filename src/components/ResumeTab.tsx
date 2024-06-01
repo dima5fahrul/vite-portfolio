@@ -2,9 +2,11 @@ import ReactMarkdown from 'react-markdown'
 import raw from 'rehype-raw'
 import pastRoles from '../../pastRoles.json'
 import skills from '../../skills.json'
+import toolsTitle from '../../toolsTitle.json'
 import socialLinks from '../../socialLinks.json'
 import Position from './Position'
 import SocialIconConnection from './SocialIconCollection'
+import ToolsDescription from "./ToolsDescription";
 
 interface Props {
   title: string,
@@ -25,9 +27,11 @@ const ResumeTab = ({ title, description }:Props) => {
         <div className="lg:col-span-7 divide-y dark:divide-gray-600">
           {
             title.toLowerCase().includes('experience') ?
-            pastRoles.map((role: any) => <Position key={role.id} job={role} isResume={true} />) :
+            pastRoles.map((role: any) => <Position key={role.id} job={role} isResume={true}/>) :
             title.toLowerCase().includes('skill') ?
-            skills.map((skill: any) => <Position key={skill.id} job={skill} isResume={true} />) :
+            skills.map((skill: any) => <Position key={skill.id} job={skill} isResume={true}/>) :
+            title.toLowerCase().includes('tools') ?
+            toolsTitle.map((toolTitle: any) => <ToolsDescription key={toolTitle.id} job={toolTitle} />) :
             title.toLowerCase().includes('follow') ?
             <SocialIconConnection links={socialLinks} /> :
             <ReactMarkdown

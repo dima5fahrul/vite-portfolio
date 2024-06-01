@@ -1,13 +1,16 @@
 [
   {
     "title": "<h2>About me</h2>",
-    "description": "<p class='text-gray-500'>Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi. Id arcu rutrum pharetra rutrum dolor ament consectur.<br><br>Odio aliquet placerat sit iaculis mattis viverra scelerisque pellentesq nibh a rhoncus amet laoreet. Volutpat, tincidunt ac sit consequat purus, adipiscing purus tempus. Interdum lacus maecenas suscipit sed elit diam, consequat. Nisi euismod tellus cras urna.</p>"
+    "description": "<p class='text-gray-500'>An informatics engineering student with interest in IT and a passion for software development. I have approximately two years of solid foundation in application development, especially in <b>mobile development</b>.<br><br>Experienced in training development provided by a talented management startup, shaped to become an <b>agile, working software and communicative person</b>.</p>"
   },
   {
     "title": "<h2>Experience</h2>"
   },
   {
     "title": "<h2>Skills</h2>"
+  },
+  {
+    "title": "<h2>Tools</h2>"
   },
   {
     "title": "<h2>Follow me</h2>"

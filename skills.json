@@ -1,22 +1,32 @@
 [
   {
     "id": 0,
-    "title": "UI/UX Design",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "Mobile Development",
+    "description": "Flutter Framework, Dart, Jetpack Compose, basic Kotlin and XML, Firebase."
   },
   {
     "id": 1,
-    "title": "User Research",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "Web Development",
+    "description": "HTML & CSS, Tailwind CSS, React JS, Vue JS, Node JS, MongoDB."
   },
   {
     "id": 2,
-    "title": "Product Design",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "AI Basic",
+    "description": "Python, Preprocessing, Clustering, and Classification."
   },
   {
     "id": 3,
-    "title": "Brand Design",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit auis nec et vestibulum risus accumsan purus morbi id arcu rutrum."
+    "title": "Fundamental Development",
+    "description": "Object-oriented Programming, Design Pattern, Clean Code, Anti-pattern, Agile Practices (Scrum, Lean, XP, Design Thinking)."
+  },
+  {
+    "id": 4,
+    "title": "Soft Skills",
+    "description": "Problem Solving, Critical Thinking, Public Speaking, Teamwork, Time Management, Adaptability, Leadership."
+  },
+  {
+    "id": 5,
+    "title": "Language Proficiency",
+    "description": "Indonesian (Fluent or native language level), English (Intermediate level)."
   }
 ]

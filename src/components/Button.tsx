@@ -6,7 +6,7 @@ const Button = ({ classNames, runFunc = () => {} }: Props) => {
   return (
     <div
       className={`
-        lg:-bottom-8
+        lg:-bottom-0
         lg:right-4
         lg:m-0
         mt-5

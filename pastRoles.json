@@ -1,38 +1,29 @@
 [
   {
     "id": 0,
-    "title": "Senior UI/UX Designer",
-    "startYear": "2022",
-    "endYear": "2023",
-    "company": "Meta",
-    "logo": "/images/Meta.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
+    "title": "Mobile Developer Intern",
+    "startYear": "Jan",
+    "endYear": "Jun 2024",
+    "company": "AgileTeknik Allience",
+    "logo": "/images/agile-teknik.svg",
+    "description": "Developed a mobile application system, learned design patterns and anti-patterns, iteratively created and integrated development from MVP to MMP."
   },
   {
     "id": 1,
-    "title": "Lead of UX Design",
-    "startYear": "2020",
-    "endYear": "2021",
-    "company": "Twitter",
-    "logo": "/images/twitter.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
+    "title": "Lead of Mobile Developer Team",
+    "startYear": "Mar",
+    "endYear": "Nov 2023",
+    "company": "Agile PdBL",
+    "logo": "/images/agile-teknik.svg",
+    "description": "Developing Flutter-based apps, integrating backend APIs, performing SQA testing, and collaborating with users to enhance engagement."
   },
   {
     "id": 2,
-    "title": "Head of UI/UX Design",
-    "startYear": "2019",
-    "endYear": "2020",
-    "company": "YouTube",
-    "logo": "/images/youtube.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
-  },
-  {
-    "id": 3,
-    "title": "Mobile UI/UX Designer",
-    "startYear": "2017",
-    "endYear": "2018",
-    "company": "Twitch",
-    "logo": "/images/twitch.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
+    "title": "Head of Research & Technology Department",
+    "startYear": "Jun 2022",
+    "endYear": "Jun 2024",
+    "company": "Organization of Informatics & Data Science",
+    "logo": "/images/himit.svg",
+    "description": "Be part of the leadership of an organization that designs, organizes, and develops innovative technology events."
   }
 ]

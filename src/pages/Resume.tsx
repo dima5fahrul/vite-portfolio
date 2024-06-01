@@ -7,7 +7,7 @@ const Resume = () => {
       <section className="bg-white dark:bg-neutral-900 py-20 lg:py-32">
         <div className="flex flex-col gap-y-7 items-center justify-center text-center">
           <img
-            src="/images/6.jpeg"
+            src="/images/6.jpg"
             alt="avatar"
             className="
               w-32
@@ -21,7 +21,7 @@ const Resume = () => {
             Resume
           </h1>
           <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            Lorem ipsum dolor sit amet consectetur adipiscing elit donec morbi lectus nisi egestas proin amet rhoncus scelerisque lorem feugiat amet hac ornare.
+            My name is <b>Dimas Fahrul</b>, a <b>mobile developer</b> based in Sidaorjo, Indonesia. Passionate for creating <b>user-friendly, intuitive and delightful digital experiences</b>.
           </p>
         </div>
       </section>

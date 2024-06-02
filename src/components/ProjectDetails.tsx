@@ -72,7 +72,7 @@ const ProjectDetails = () => {
             Client
           </h3>
           <p className="text-xl mt-3 text-gray-500 font-normal">
-            {selectedProject.company}
+            {selectedProject.client}
           </p>
         </div>
         <div>
@@ -122,16 +122,38 @@ const ProjectDetails = () => {
           </a>
         </div>
      </div>
-     <div ref={targetElem}>
-       <ReactMarkdown
-          className="markdown mx-auto md:max-w-2xl py-32 md:px-0 px-4"
-          rehypePlugins={[raw]}
-        >
-          {content.content}
-        </ReactMarkdown>
-     </div>
-     <hr className="my-12" />
-     <section className="bg-white dark:bg-neutral-900 py-20 lg:py-32">
+      <div className="markdown mx-auto md:max-w-2xl py-32 md:px-0 px-4">
+        <h2>About the project</h2>
+        <p>
+          {selectedProject.about}
+        </p>
+        <ol role="list">
+          {
+            selectedProject.about_list.map((detail: string, index: number) => (
+              <li key={index}>{detail}</li>
+            ))
+          }
+        </ol>
+        <figure style={{maxWidth: 1232}}>
+          <div>
+            <img src={selectedProject.image} loading="lazy"/>
+          </div>
+        </figure>
+        <hr/>
+        <h2>Project results</h2>
+        <p>
+            {selectedProject.project_results}
+        </p>
+        <ul role="list">
+          {
+            selectedProject.project_results_list.map((detail: string, index: number) => (
+                <li key={index}>{detail}</li>
+            ))
+          }
+        </ul>
+      </div>
+      <hr className="my-12"/>
+      <section className="bg-white dark:bg-neutral-900 py-20 lg:py-32">
         <div className="relative grid auto-cols-fr gap-10 max-w-screen-xl px-4 mx-auto lg:grid-cols-12">
           <div className="place-self-start lg:col-span-7">
             <h3 className="mb-4 text-4xl font-normal tracking-normal xl:text-5xl md:text-4xl">
@@ -140,43 +162,43 @@ const ProjectDetails = () => {
           </div>
           <div className="lg:col-span-5">
             <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae doloribus qui ullam eaque?
+              There are several examples of what the project mockup looks like
             </p>
           </div>
         </div>
         <div className="grid gap-6 px-4 grid-cols-12">
           <div className="group overflow-hidden md:col-span-6 col-span-12 relative">
             <img
-              src="/images/gallery-1.jpg"
-              className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
+                src={selectedProject.project_gallery_list[0]}
+                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
             />
-            <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
+            <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full"/>
           </div>
           <div className="md:col-span-6 col-span-12 grid grid-cols-2 gap-6">
             <div className="group relative overflow-hidden">
               <img
-                src="/images/gallery-2.jpg"
+                src={selectedProject.project_gallery_list[1]}
                 className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
             </div>
             <div className="relative group overflow-hidden ">
               <img
-                src="/images/gallery-3.jpg"
+                src={selectedProject.project_gallery_list[2]}
                 className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
             </div>
             <div className="group overflow-hidden relative">
               <img
-                src="/images/gallery-4.jpg"
+                src={selectedProject.project_gallery_list[3]}
                 className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
             </div>
             <div className="group overflow-hidden relative">
               <img
-                src="/images/gallery-5.jpg"
+                src={selectedProject.project_gallery_list[4]}
                 className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />

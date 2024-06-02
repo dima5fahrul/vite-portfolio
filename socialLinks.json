@@ -1,37 +1,22 @@
 [
   {
     "title": "Facebook",
-    "link": "https://facebook.com/",
+    "link": "https://www.facebook.com/profile.php?id=100007096427349",
     "iconClass": "la-facebook-f"
   },
   {
     "title": "Instagram",
-    "link": "https://instagram.com/",
+    "link": "https://instagram.com/hellteen_",
     "iconClass": "la-instagram"
   },
   {
     "title": "Twitter",
-    "link": "https://twitter.com/",
+    "link": "https://twitter.com/hellteen_",
     "iconClass": "la-twitter"
   },
   {
     "title": "LinkedIn",
-    "link": "https://linkedin.com/",
+    "link": "https://linkedin.com/in/dimasfahrul",
     "iconClass": "la-linkedin-in"
-  },
-  {
-    "title": "Dribbble",
-    "link": "https://dribbble.com/",
-    "iconClass": "la-dribbble"
-  },
-  {
-    "title": "Behance",
-    "link": "https://behance.net/",
-    "iconClass": "la-behance"
-  },
-  {
-    "title": "YouTube",
-    "link": "https://youtube.com/",
-    "iconClass": "la-youtube"
   }
 ]

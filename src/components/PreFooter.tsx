@@ -14,7 +14,7 @@ const PreFooter = () => {
             Interested in working together?
           </h2>
           <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            Lorem ipsum dolor sit amet consectetur adipiscing elit donec morbi lectus nisi egestas proin amet rhoncus scelerisque lorem feugiat amet hac ornare.
+            I'm always looking for new opportunities to work on exciting projects. If you have an idea or project in mind, feel free to reach out to me.
           </p>
         </div>
         <Button runFunc={goToContact} classNames="-rotate-90 lg:col-span-5 lg:w-28 lg:h-28 w-24 h-24 lg:place-self-center"  />

@@ -21,7 +21,7 @@ const Contact = () => {
               Get in touch
             </h1>
             <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl my-5">
-              Lorem ipsum dolor sit amet consectetur adipiscing elit donec morbi lectus nisi egestas proin amet rhoncus scelerisque lorem feugiat amet hac ornare.
+                I'm always open to new projects. Let's work together on your next big idea!
             </p>
             <div className="grid auto-cols-fr max-w-scree-xl sm:grid-cols-2 grid-cols-1 gap-10">
               {

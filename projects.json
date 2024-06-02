@@ -3,11 +3,11 @@
     "id": 1,
     "title": "Functional app for mood tracking",
     "description": "My position in this project is as a mobile developer. My contributions include publishing to the Play Store, internationalization, adding advertising features, and several incremental updates.",
-    "image": "/images/preview-niko-mood.jpg",
+    "image": "/images/NikoMood/preview-niko-mood.jpg",
     "url": "https://moodtracker.agileteknik.com",
     "category": "Functional Apps",
     "company": "AgileTeknik",
-    "slug": "mobile-apps-for-mood-tracking"
+    "slug": "functional-apps-for-mood-tracking"
   },
   {
     "id": 2,

@@ -20,7 +20,7 @@ const Resume = () => {
             Resume
           </h1>
           <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            My name is <b>Dimas Fahrul</b>, a <b>mobile developer</b> based in Sidaorjo, Indonesia. Passionate for creating <b>user-friendly, intuitive and delightful digital experiences</b>.
+            My name is <b>Dimas Fahrul</b>, a <b>mobile developer</b> based in Sidoarjo, Indonesia. Passionate for creating <b>user-friendly, intuitive and delightful digital experiences</b>.
           </p>
         </div>
       </section>

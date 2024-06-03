@@ -3,9 +3,9 @@
     "id": 1,
     "title": "NikoMood - Functional apps for mood tracking",
     "description": "NikoMood is an app that tracks and records mood changes. It helps identify patterns and factors that influence emotions and offers interactive graphical analysis, and AI-based summary features for valuable insights into mental well-being.",
-    "image": "/images/NikoMood/preview-niko-mood.jpg",
+    "image": "/images/nikomood/preview-niko-mood.jpg",
     "url": "https://moodtracker.agileteknik.com",
-    "category": "Mobile Android & Website",
+    "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
     "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
@@ -23,145 +23,111 @@
       "Apply several design patterns to several codes to facilitate continued development."
     ],
     "project_gallery_list": [
-      "/images/NikoMood/gallery-1.png",
-      "/images/NikoMood/gallery-2.png",
-      "/images/NikoMood/gallery-3.png",
-      "/images/NikoMood/gallery-4.png",
-      "/images/NikoMood/gallery-5.png"
+      "/images/nikomood/gallery-1.png",
+      "/images/nikomood/gallery-2.png",
+      "/images/nikomood/gallery-3.png",
+      "/images/nikomood/gallery-4.png",
+      "/images/nikomood/gallery-5.png"
     ],
     "slug": "functional-apps-for-mood-tracking",
-    "banner": "/images/NikoMood/banner-niko-mood.png"
+    "banner": "/images/nikomood/banner-niko-mood.png"
   },
   {
     "id": 2,
-    "title": "Logo design & branding for Lacausa co.",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-2.jpeg",
-    "url": "#",
-    "category": "Branding",
-    "company": "Lacausa co",
+    "title": "SECI Note - Functional apps for note-taking.",
+    "description": "SECI Note is a simple note-taking application that allows users to create notes and update their notes quickly and easily.",
+    "image": "/images/secinote/preview-seci-note.png",
+    "url": "https://notetaker.agileteknik.com",
+    "category": "Company Project",
+    "company": "AgileTeknik",
+    "client": "Public",
+    "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
+    "about_list": [
+      "Setting for a gradual release iteratively of the app on the Google Play Store.",
+      "Internationalize the language in the application for international users.",
+      "Arrange to add advertising features to the application to provide income.",
+      "Made some slicing updates to some features."
+    ],
+    "project_results": "This project has been well received by 100+ users, with several reviews and feedback praising its ease of use and effectiveness in tracking mood changes. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app include some results while I'm joining the project involves:",
+    "project_results_list": [
+      "Used by 100+ users on Google Play Store.",
+      "Received several reviews and feedback to consider adding features.",
+      "Earn income during the development stage by adding advertising features.",
+      "Apply several design patterns to several codes to facilitate continued development."
+    ],
+    "project_gallery_list": [
+      "/images/secinote/gallery-1.png",
+      "/images/secinote/gallery-2.png",
+      "/images/secinote/gallery-3.png",
+      "/images/secinote/gallery-4.png",
+      "/images/secinote/gallery-5.png"
+    ],
     "slug": "functional-apps-for-note-taking",
-    "banner": "/images/banner-2.jpg"
+    "banner": "/images/secinote/banner-seci-note.png"
   },
   {
     "id": 3,
-    "title": "Sofa furniture design for Burrow",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-3.jpeg",
-    "url": "#",
-    "category": "Industrial",
-    "company": "Burrow",
-    "slug": "sofa-furniture-design-for-burrow",
-    "banner": "/images/banner-3.jpg"
+    "title": "Daily Healthy Habit - Functional apps for habit recording.",
+    "description": "Application for recording daily habitual activities to increase user productivity and health.",
+    "image": "/images/dailyhealthyhabit/preview-daily-habit.png",
+    "url": "https://healthyhabit.agileteknik.com",
+    "category": "Company Project",
+    "company": "Agile PdBL",
+    "client": "Public",
+    "about": "I made this project with my team while in Product-based Learning. We created this project for approximately 0ne year to develop the application in the minimum viable product stage. My position on this project is as a lead mobile developer. My contributions to this project include: ",
+    "about_list": [
+      "Become a Lead Mobile Developer on one of the Agile Pdbl teams.",
+      "Integrating API from the Backend to the Mobile Frontend.",
+      "Made some slicing updates to some features.",
+      "Carrying out Quality Security Tests (SQA) to find system errors and optimize usability."
+    ],
+    "project_results": "This project has been well received by 100+ users, with several reviews and feedback praising its ease of use and effectiveness in tracking mood changes. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app include some results while I'm joining the project involves:",
+    "project_results_list": [
+      "Used by 100+ users on Google Play Store.",
+      "Received several reviews and feedback to consider adding features.",
+      "Collaborate with users to increase engagement on the application.",
+      "Become an exhibition application at the AgileTeknik Festival"
+    ],
+    "project_gallery_list": [
+      "/images/dailyhealthyhabit/gallery-1.png",
+      "/images/dailyhealthyhabit/gallery-2.png",
+      "/images/dailyhealthyhabit/gallery-3.png",
+      "/images/dailyhealthyhabit/gallery-4.png",
+      "/images/dailyhealthyhabit/gallery-5.png"
+    ],
+    "slug": "functional-apps-for-habit-recording",
+    "banner": "/images/dailyhealthyhabit/banner-daily-habit.png"
   },
   {
     "id": 4,
-    "title": "Fyrn local showroom interior design & decoration",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-4.jpeg",
-    "url": "#",
-    "category": "Industrial",
-    "company": "Fyrn",
-    "slug": "fyrn-local-showroom-interior-design-decoration",
-    "banner": "/images/banner-4.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Website design for finance startup",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-5.jpeg",
-    "url": "#",
-    "category": "UI/UX",
-    "company": "App X",
-    "slug": "website-design-for-finance-startup",
-    "banner": "/images/banner-5.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Brand refresh for Technology app",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-6.jpeg",
-    "url": "#",
-    "category": "UI/UX",
-    "company": "Technology",
-    "slug": "brand-refresh-for-technology-app",
-    "banner": "/images/banner-6.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Graphic design & photography for Doen",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-7.jpeg",
-    "url": "#",
-    "category": "Branding",
-    "company": "Doen",
-    "slug": "graphic-design-photography-for-doen",
-    "banner": "/images/banner-7.jpg"
-  },
-  {
-    "id": 8,
-    "title": "Brand design & identity for La Ligne",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-8.jpeg",
-    "url": "#",
-    "category": "Branding",
-    "company": "La Ligne",
-    "slug": "brand-design-identity-for-la-ligne",
-    "banner": "/images/banner-8.jpg"
-  },
-  {
-    "id": 9,
-    "title": "Website redesign for Consulting X",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-9.jpeg",
-    "url": "#",
-    "category": "UI/UX",
-    "company": "Consulting X",
-    "slug": "website-design-for-consulting-x",
-    "banner": "/images/banner-9.jpg"
-  },
-  {
-    "id": 10,
-    "title": "Illustration design for Edu X",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-10.jpeg",
-    "url": "#",
-    "category": "UI/UX",
-    "company": "Edu X",
-    "slug": "illustration-design-for-edu-x",
-    "banner": "/images/banner-10.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Dresser concept design exploration with Maiden Home",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-11.jpeg",
-    "url": "#",
-    "category": "Industrial",
-    "company": "Maiden Home",
-    "slug": "dresser-concept-design-exploration-with-maiden-home",
-    "banner": "/images/banner-11.jpg"
-  },
-  {
-    "id": 12,
-    "title": "13 products design & development for Joybird co",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-12.jpeg",
-    "url": "#",
-    "category": "Industrial",
-    "company": "Joybird",
-    "slug": "13-products-design-development-for-joybird-co",
-    "banner": "/images/banner-12.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Product lineup industrial design for Caramba brand",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-13.jpeg",
-    "url": "#",
-    "category": "Industrial",
-    "company": "La Ligne",
-    "slug": "product-lineup-industrial-design-for-caramba-brand",
-    "banner": "/images/banner-13.jpg"
+    "title": "Si Daeng - Platform apps for document management.",
+    "description": "Si Daeng is a digitalization application for document management that utilizes blockchain technology and zero-knowledge proof.",
+    "image": "/images/sidaeng/preview-sidaeng.png",
+    "url": "https://drive.google.com/file/d/11ovFOwdFr_RWHOFPisluRJ4i_Lo28qyj/view?usp=sharing",
+    "category": "Self Project",
+    "company": "None",
+    "client": "Government, Partner, & Public",
+    "about": "I made this project with my team while in the same university. We create this project for the competition that we're joined and got any achievements by this application. My contributions to this project include: ",
+    "about_list": [
+      "Become a hacker on the team.",
+      "Slicing the design to the application.",
+      "Implementing the blockchain technology & zero-knowledge proof to the application.",
+      "Integrating Firebase to the application."
+    ],
+    "project_results": "This project has been well got any achievements in any competition. This app include some results while I'm joining the project involves:",
+    "project_results_list": [
+      "Got the 2nd place in the competition.",
+      "Received several reviews and feedback to consider adding features.",
+      "Become an exhibition application at the competition"
+    ],
+    "project_gallery_list": [
+      "/images/sidaeng/gallery-1.png",
+      "/images/sidaeng/gallery-2.png",
+      "/images/sidaeng/gallery-3.png",
+      "/images/sidaeng/gallery-4.png",
+      "/images/sidaeng/gallery-5.png"
+    ],
+    "slug": "platform-apps-for-document-management",
+    "banner": "/images/sidaeng/banner-sidaeng.png"
   }
 ]

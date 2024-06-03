@@ -1,9 +1,6 @@
-import { useMemo, useRef } from 'react'
+import React, { useMemo, useRef } from 'react'
 import { useParams } from 'react-router-dom'
-import ReactMarkdown from 'react-markdown'
-import raw from 'rehype-raw'
 import projects from '../../portfolio.json'
-import content from '../../markdownContent.json'
 import Button from './Button'
 import ArrowTopRight from './ArrowTopRight'
 import PreFooter from './PreFooter'
@@ -170,7 +167,7 @@ const ProjectDetails = () => {
           <div className="group overflow-hidden md:col-span-6 col-span-12 relative">
             <img
                 src={selectedProject.project_gallery_list[0]}
-                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
+                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-105"
             />
             <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full"/>
           </div>
@@ -178,28 +175,28 @@ const ProjectDetails = () => {
             <div className="group relative overflow-hidden">
               <img
                 src={selectedProject.project_gallery_list[1]}
-                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
+                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-105"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
             </div>
             <div className="relative group overflow-hidden ">
               <img
                 src={selectedProject.project_gallery_list[2]}
-                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
+                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-105"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
             </div>
             <div className="group overflow-hidden relative">
               <img
                 src={selectedProject.project_gallery_list[3]}
-                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
+                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-105"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
             </div>
             <div className="group overflow-hidden relative">
               <img
                 src={selectedProject.project_gallery_list[4]}
-                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-150"
+                className="w-full h-full object-cover object-center transition-all duration-700 opacity-0 animating-image group-hover:scale-105"
               />
               <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
             </div>

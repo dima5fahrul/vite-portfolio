@@ -7,6 +7,7 @@ import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
 import Resume from './pages/Resume'
 import ProjectDetails from './components/ProjectDetails'
+import { Analytics } from "@vercel/analytics/react"
 
 
 window.addEventListener('load', scrollReveal)
@@ -17,6 +18,7 @@ function App() {
 
   return (
     <div className="App container md:max-w-7xl mx-auto">
+        <Analytics />
       <Navbar />
       <ScrollToTop>
         <Routes>

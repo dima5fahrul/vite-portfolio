@@ -5,7 +5,6 @@ interface Props {
 const Logo = ({ darkMode }:Props) => {
   return (
     <div className="logo">
-      {/*<img src="/images/home.svg" className={"w-8 h-8"} alt="logo" />*/}
         <svg
             id="svg8"
             height={32}

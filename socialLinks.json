@@ -18,5 +18,10 @@
     "title": "LinkedIn",
     "link": "https://linkedin.com/in/dimasfahrul",
     "iconClass": "la-linkedin-in"
+  },
+  {
+    "title": "GitHub",
+    "link": "https://github.com/dima5fahrul",
+    "iconClass": "la-github"
   }
 ]

@@ -23,5 +23,10 @@
     "title": "GitHub",
     "link": "https://github.com/dima5fahrul",
     "iconClass": "la-github"
+  },
+  {
+    "title": "Gitlab",
+    "link": "https://gitlab.com/dima5fahrul",
+    "iconClass": "la-gitlab"
   }
 ]

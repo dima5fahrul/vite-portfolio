@@ -129,5 +129,37 @@
     ],
     "slug": "platform-apps-for-document-management",
     "banner": "/images/sidaeng/banner-sidaeng.png"
+  },
+  {
+    "id": 5,
+    "title": "Sampah Aja - Platform apps for waste management.",
+    "description": "Sampah Aja is a digitalization application for waste digitalization and management using artificial intelligence.",
+    "image": "/images/sampahaja/preview-sampahaja.png",
+    "url": "https://drive.google.com/file/d/1opVNlsl92Vd5Lo6skapqyaqFfhQSaT3-/view?usp=sharing",
+    "category": "Self Project",
+    "company": "None",
+    "client": "Trash Collector & Public",
+    "about": "I made this project with my team while in the same university. We create this project for the competition that we're joined and got any achievements by this application. My contributions to this project include: ",
+    "about_list": [
+      "Become a hacker on the team.",
+      "Slicing the design to the application.",
+      "Implementing trash detection using deep learning.",
+      "Integrating Firebase to the application."
+    ],
+    "project_results": "This project has been well got any achievements in any competition. This app include some results while I'm joining the project involves:",
+    "project_results_list": [
+      "Got the 1st place in the competition at AMCC CODE 2023 and WINACTION 2023.",
+      "Got the 2st place in the competition at KMIPN V.",
+      "Received several reviews and feedback to consider adding features."
+    ],
+    "project_gallery_list": [
+      "/images/sampahaja/gallery-1.png",
+      "/images/sampahaja/gallery-2.png",
+      "/images/sampahaja/gallery-3.png",
+      "/images/sampahaja/gallery-4.png",
+      "/images/sampahaja/gallery-5.png"
+    ],
+    "slug": "platform-apps-for-waste-management",
+    "banner": "/images/sampahaja/banner-sampahaja.png"
   }
 ]

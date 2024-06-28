@@ -161,5 +161,38 @@
     ],
     "slug": "platform-apps-for-waste-management",
     "banner": "/images/sampahaja/banner-sampahaja.png"
+  },
+  {
+    "id": 6,
+    "title": "SECI Map - Functional apps for creating mind map.",
+    "description": "SECI Map is a simple mind mapping application that allows users to create mind maps and update their mind maps quickly and easily.",
+    "image": "/images/secimap/preview-secimap.png",
+    "url": "https://www.secimap.com",
+    "category": "Company Project",
+    "company": "AgileTeknik",
+    "client": "Public",
+    "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
+    "about_list": [
+      "Setting for a gradual release iteratively of the app on the Google Play Store.",
+      "Internationalize the language in the application for international users.",
+      "Arrange to add advertising features to the application to provide income.",
+      "Made some slicing updates to some features."
+    ],
+    "project_results": "This project has been well received by 100+ users, with several reviews and feedback praising its ease of use and effectiveness in creating mind map. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app include some results while I'm joining the project involves:",
+    "project_results_list": [
+      "Used by 100+ users on Google Play Store.",
+      "Received several reviews and feedback to consider adding features.",
+      "Earn income during the development stage by adding advertising features.",
+      "Apply several design patterns to several codes to facilitate continued development."
+    ],
+    "project_gallery_list": [
+      "/images/secimap/gallery-1.png",
+      "/images/secimap/gallery-2.png",
+      "/images/secimap/gallery-3.png",
+      "/images/secimap/gallery-4.png",
+      "/images/secimap/gallery-5.png"
+    ],
+    "slug": "functional-apps-for-creating-mind-map",
+    "banner": "/images/secimap/banner-secimap.png"
   }
 ]

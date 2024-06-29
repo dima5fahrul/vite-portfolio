@@ -194,5 +194,36 @@
     ],
     "slug": "functional-apps-for-creating-mind-map",
     "banner": "/images/secimap/banner-secimap.png"
+  },
+  {
+    "id": 7,
+    "title": "Daily Plan - Functional apps for planning event and habit recording.",
+    "description": "Daily plan is an application for recording daily habitual activities and planning events to increase user productivity and health.",
+    "image": "/images/dailyplan/preview-dailyplan.png",
+    "url": "https://dailyplan.agileteknik.com/",
+    "category": "Company Project",
+    "company": "AgileTeknik",
+    "client": "Public",
+    "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
+    "about_list": [
+      "Setting for a gradual release iteratively of the app on the Google Play Store.",
+      "Integrate from old application to new application and features.",
+      "Developing with mvp features iteratively",
+      "Made some slicing updates to some features."
+    ],
+    "project_results": "This project is still in the development stage and has just entered the release stage, so it is still looking for target users to get feedback. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app includes some of the results when I joined a project involving:",
+    "project_results_list": [
+      "Merging the old application to the new application.",
+      "Collaborate with users to increase engagement on the application."
+    ],
+    "project_gallery_list": [
+      "/images/dailyplan/gallery-1.png",
+      "/images/dailyplan/gallery-2.png",
+      "/images/dailyplan/gallery-3.png",
+      "/images/dailyplan/gallery-4.png",
+      "/images/dailyplan/gallery-5.png"
+    ],
+    "slug": "functional-apps-for-planning-event-and-habit-recording",
+    "banner": "/images/dailyplan/banner-dailyplan.png"
   }
 ]

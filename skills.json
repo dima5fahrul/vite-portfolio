@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Mobile Development",
-    "description": "Flutter Framework, Dart, Jetpack Compose, basic Kotlin and XML, Firebase."
+    "description": "Flutter Framework, Dart, Android Native, Kotlin, Jetpack Compose, Firebase."
   },
   {
     "id": 1,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "AI Basic",
-    "description": "Python, Preprocessing, Clustering, and Classification."
+    "description": "Python, Preprocessing, Analytics, Clustering, Classification and Tensorflow"
   },
   {
     "id": 3,

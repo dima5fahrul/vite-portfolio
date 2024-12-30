@@ -11,6 +11,7 @@
   "dependencies": {
     "@vercel/analytics": "^1.3.1",
     "@vercel/speed-insights": "^1.0.11",
+    "caniuse-lite": "^1.0.30001690",
     "firebase": "^10.12.2",
     "node-device-detector": "^2.1.1",
     "react": "^18.2.0",

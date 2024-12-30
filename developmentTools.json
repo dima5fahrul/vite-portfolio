@@ -1,11 +1,16 @@
 [
   {
     "id": 0,
-    "title": "IntelliJ IDEA",
-    "description": "I trying to adapt to this IDE because it is very powerful and has a lot of features for Kotlin and Jetpack Compose development, also using it for Flutter development with Dart."
+    "title": "Android Studio",
+    "description": "I trying to adapt to this IDE because it is very powerful and has a lot of features for Kotlin and Jetpack Compose development since become Bangkit Cohort."
   },
   {
     "id": 1,
+    "title": "IntelliJ IDEA",
+    "description": "Just like Android Studio, this IDE is the parent of any IDE in Jetbrains tools. I'm using this IDE in React web development and Flutter development with Dart."
+  },
+  {
+    "id": 2,
     "title": "Visual Studio Code",
     "description": "This is my main IDE for my development. I'm using on it since my first time know programming. It has a lot of extensions and features that make it customizable."
   },
@@ -19,5 +24,4 @@
     "title": "Git",
     "description": "A popular tool that helps collaborate with teams in working on projects."
   }
-
 ]

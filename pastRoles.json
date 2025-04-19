@@ -1,6 +1,15 @@
 [
   {
     "id": 0,
+    "title": "Mobile Developer",
+    "startYear": "Apr 2025",
+    "endYear": "Present",
+    "company": "LinkIT",
+    "logo": "/images/linkit.png",
+    "description": ""
+  },
+  {
+    "id": 2,
     "title": "Android Development Cohort",
     "startYear": "Sep 2024",
     "endYear": "Jan 2025",
@@ -9,7 +18,7 @@
     "description": "Completed a total of 9 courses and average rating of 4 stars covering topics from beginner to expert level."
   },
   {
-    "id": 1,
+    "id": 3,
     "title": "Mobile Developer Intern",
     "startYear": "Aug 2024",
     "endYear": "Jan 2025",
@@ -18,7 +27,7 @@
     "description": "Integrated LLM varian in mobile application using Flutter Framework to create chatbot in muslim scope."
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Mobile Developer Intern",
     "startYear": "Jan",
     "endYear": "Jun 2024",
@@ -27,7 +36,7 @@
     "description": "Developed a mobile application system, learned design patterns and anti-patterns, iteratively created and integrated development from MVP to MMP."
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Lead of Mobile Developer Team",
     "startYear": "Mar",
     "endYear": "Nov 2023",
@@ -36,7 +45,7 @@
     "description": "Developing Flutter-based apps, integrating backend APIs, performing SQA testing, and collaborating with users to enhance engagement."
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Head of Research & Technology Department",
     "startYear": "Jun 2022",
     "endYear": "Jun 2024",

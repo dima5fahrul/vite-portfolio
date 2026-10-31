@@ -1,5 +1,7 @@
 import ProjectPreview from "./ProjectPreview"
-import projects from "../../projects.json"
+import portfolioList from "../../portfolio.json"
+
+const projects = portfolioList.filter((project) => project.featured)
 
 const PastProjects = () => {
   return (

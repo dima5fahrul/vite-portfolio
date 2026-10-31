@@ -9,7 +9,7 @@ const ProjectPreview = ({ work }: Props) => {
         <div className="relative grid mx-auto lg:gap-8 xl:gap-0 lg:grid-cols-12">
           <div className="lg:px-12 lg:py-auto px-6 py-6 place-self-center lg:col-span-6">
             <p className="font-medium tracking-wide text-lg md:text-xl mb-3">
-              {work.company}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;{work.category}
+              {work.company && <>{work.company}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</>}{work.category}
             </p>
             <h4 className="mb-4 text-2xl font-semibold md:text-3xl">
               {work.title}

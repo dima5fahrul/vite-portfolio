@@ -30,7 +30,8 @@
       "/images/nikomood/gallery-5.png"
     ],
     "slug": "functional-apps-for-mood-tracking",
-    "banner": "/images/nikomood/banner-niko-mood.png"
+    "banner": "/images/nikomood/banner-niko-mood.png",
+    "featured": true
   },
   {
     "id": 2,
@@ -63,7 +64,8 @@
       "/images/secinote/gallery-5.png"
     ],
     "slug": "functional-apps-for-note-taking",
-    "banner": "/images/secinote/banner-seci-note.png"
+    "banner": "/images/secinote/banner-seci-note.png",
+    "featured": false
   },
   {
     "id": 3,
@@ -96,7 +98,8 @@
       "/images/dailyhealthyhabit/gallery-5.png"
     ],
     "slug": "functional-apps-for-habit-recording",
-    "banner": "/images/dailyhealthyhabit/banner-daily-habit.png"
+    "banner": "/images/dailyhealthyhabit/banner-daily-habit.png",
+    "featured": true
   },
   {
     "id": 4,
@@ -105,7 +108,7 @@
     "image": "/images/sidaeng/preview-sidaeng.png",
     "url": "https://drive.google.com/file/d/11ovFOwdFr_RWHOFPisluRJ4i_Lo28qyj/view?usp=sharing",
     "category": "Self Project",
-    "company": "None",
+    "company": "",
     "client": "Government, Partner, & Public",
     "about": "I built this app with my university team for a competition. My contributions include:",
     "about_list": [
@@ -128,7 +131,8 @@
       "/images/sidaeng/gallery-5.png"
     ],
     "slug": "platform-apps-for-document-management",
-    "banner": "/images/sidaeng/banner-sidaeng.png"
+    "banner": "/images/sidaeng/banner-sidaeng.png",
+    "featured": true
   },
   {
     "id": 5,
@@ -137,7 +141,7 @@
     "image": "/images/sampahaja/preview-sampahaja.png",
     "url": "https://drive.google.com/file/d/1opVNlsl92Vd5Lo6skapqyaqFfhQSaT3-/view?usp=sharing",
     "category": "Self Project",
-    "company": "None",
+    "company": "",
     "client": "Trash Collector & Public",
     "about": "I built this app with my university team for a competition. My contributions include:",
     "about_list": [
@@ -160,7 +164,8 @@
       "/images/sampahaja/gallery-5.png"
     ],
     "slug": "platform-apps-for-waste-management",
-    "banner": "/images/sampahaja/banner-sampahaja.png"
+    "banner": "/images/sampahaja/banner-sampahaja.png",
+    "featured": true
   },
   {
     "id": 6,
@@ -193,7 +198,8 @@
       "/images/secimap/gallery-5.png"
     ],
     "slug": "functional-apps-for-creating-mind-map",
-    "banner": "/images/secimap/banner-secimap.png"
+    "banner": "/images/secimap/banner-secimap.png",
+    "featured": false
   },
   {
     "id": 7,
@@ -224,6 +230,7 @@
       "/images/dailyplan/gallery-5.png"
     ],
     "slug": "functional-apps-for-planning-event-and-habit-recording",
-    "banner": "/images/dailyplan/banner-dailyplan.png"
+    "banner": "/images/dailyplan/banner-dailyplan.png",
+    "featured": false
   }
 ]

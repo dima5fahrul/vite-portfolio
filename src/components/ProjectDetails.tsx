@@ -84,7 +84,7 @@ const ProjectDetails = () => {
                         Services
                     </h3>
                     <p className="text-xl mt-3 text-gray-500 font-normal">
-                        {selectedProject.company}
+                        {selectedProject.company || '-'}
                     </p>
                 </div>
                 <div>

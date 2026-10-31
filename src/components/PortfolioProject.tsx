@@ -16,7 +16,7 @@ const PortfolioProject = ({ projects }:Props) => {
                 </div>
                 <div className="my-8">
                   <p className="font-normal text-gray-500 tracking-wide text-lg md:text-xl mb-2">
-                    {project.company}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;{project.category}
+                    {project.company && <>{project.company}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</>}{project.category}
                   </p>
                   <h4 className="font-semibold md:text-2xl text-xl">
                     {project.title}

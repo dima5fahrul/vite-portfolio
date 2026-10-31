@@ -1,4 +1,5 @@
 import ProjectPreview from "./ProjectPreview"
+import AnimatedLink from "./AnimatedLink"
 import portfolioList from "../../portfolio.json"
 
 const projects = portfolioList.filter((project) => project.featured)
@@ -15,6 +16,9 @@ const PastProjects = () => {
         {
           projects.map((project, index) => <ProjectPreview key={index} work={project} />)
         }
+        <div className="text-center mt-12">
+          <AnimatedLink title="View all projects" link="/portfolio" isExternal={false} />
+        </div>
       </div>
     </section>
   )

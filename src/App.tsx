@@ -7,6 +7,7 @@ import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
 import Resume from './pages/Resume'
 import ProjectDetails from './components/ProjectDetails'
+import Footer from './components/Footer'
 import {Analytics} from "@vercel/analytics/react";
 import {SpeedInsights} from "@vercel/speed-insights/react"
 import {ToastContainer} from "react-toastify";
@@ -42,6 +43,7 @@ function App() {
                     <Route path="/portfolio/:slug" element={<ProjectDetails/>}/>
                 </Routes>
             </ScrollToTop>
+            <Footer/>
         </div>
     )
 }

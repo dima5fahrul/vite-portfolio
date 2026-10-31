@@ -67,7 +67,7 @@ const Navbar = () => {
     <nav className="flex text-center md:text-left md:justify-between py-8 px-6 bg-white dark:bg-neutral-900 items-center w-full">
       <div className="mr-auto">
         <Link to="/">
-          <Logo darkMode={isDark} />
+          <Logo />
         </Link>
       </div>
       <div

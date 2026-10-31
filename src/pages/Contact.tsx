@@ -24,13 +24,13 @@ const Contact = () => {
             const docRef = await addDoc(collectionData, data)
             console.log("Document written with ID: ", docRef.id);
             logEvent(analytics, 'submit_form')
-            toast.success("✉️ Success send a message!");
+            toast.success("✉️ Message sent successfully!");
             setName('')
             setEmail('')
             setDetails('')
         } catch (error) {
             console.error('Error adding document: ', error);
-            toast.error("❌ Failed to send a message");
+            toast.error("❌ Failed to send the message. Please try again.");
         }
     }
 

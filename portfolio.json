@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "NikoMood - Functional apps for mood tracking",
-    "description": "NikoMood is an app that tracks and records mood changes. It helps identify patterns and factors that influence emotions and offers interactive graphical analysis, and AI-based summary features for valuable insights into mental well-being.",
+    "title": "NikoMood - Functional app for mood tracking",
+    "description": "NikoMood is an app that tracks and records mood changes. It helps identify patterns and factors that influence emotions, and offers interactive graphical analysis and AI-based summaries for valuable insights into mental well-being.",
     "image": "/images/nikomood/preview-niko-mood.jpg",
     "url": "https://moodtracker.agileteknik.com",
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
-    "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
+    "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
-      "Setting for a gradual release iteratively of the app on the Google Play Store.",
-      "Internationalize the language in the application for international users.",
-      "Arrange to add advertising features to the application to provide income.",
-      "Made some slicing updates to some features."
+      "Managed gradual, iterative releases of the app on the Google Play Store.",
+      "Internationalized the app for international users.",
+      "Added advertising features to generate revenue.",
+      "Sliced UI designs into code for several feature updates."
     ],
-    "project_results": "This project has been well received by 200+ users, with several reviews and feedback praising its ease of use and effectiveness in tracking mood changes. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app include some results while I'm joining the project involves:",
+    "project_results": "This app has been well received by 200+ users, with reviews and feedback praising its ease of use and effectiveness in tracking mood changes. Results while I was on the project:",
     "project_results_list": [
-      "Used by 200+ users on Google Play Store.",
-      "Received several reviews and feedback to consider adding features.",
-      "Earn income during the development stage by adding advertising features.",
-      "Apply several design patterns to several codes to facilitate continued development."
+      "Used by 200+ users on the Google Play Store.",
+      "Gathered reviews and feedback to guide new features.",
+      "Earned revenue during development through advertising features.",
+      "Applied design patterns to keep the codebase maintainable for continued development."
     ],
     "project_gallery_list": [
       "/images/nikomood/gallery-1.png",
@@ -34,26 +34,26 @@
   },
   {
     "id": 2,
-    "title": "SECI Note - Functional apps for note-taking.",
-    "description": "SECI Note is a simple note-taking application that allows users to create notes and update their notes quickly and easily.",
+    "title": "SECI Note - Functional app for note-taking",
+    "description": "SECI Note is a simple note-taking app that lets users create and update notes quickly and easily.",
     "image": "/images/secinote/preview-seci-note.png",
     "url": "https://notetaker.agileteknik.com",
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
-    "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
+    "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
-      "Setting for a gradual release iteratively of the app on the Google Play Store.",
-      "Internationalize the language in the application for international users.",
-      "Arrange to add advertising features to the application to provide income.",
-      "Made some slicing updates to some features."
+      "Managed gradual, iterative releases of the app on the Google Play Store.",
+      "Internationalized the app for international users.",
+      "Added advertising features to generate revenue.",
+      "Sliced UI designs into code for several feature updates."
     ],
-    "project_results": "This project has been well received by 100+ users, with several reviews and feedback praising its ease of use and effectiveness in tracking mood changes. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app include some results while I'm joining the project involves:",
+    "project_results": "This app has been well received by 100+ users, with reviews and feedback praising its ease of use. Results while I was on the project:",
     "project_results_list": [
-      "Used by 100+ users on Google Play Store.",
-      "Received several reviews and feedback to consider adding features.",
-      "Earn income during the development stage by adding advertising features.",
-      "Apply several design patterns to several codes to facilitate continued development."
+      "Used by 100+ users on the Google Play Store.",
+      "Gathered reviews and feedback to guide new features.",
+      "Earned revenue during development through advertising features.",
+      "Applied design patterns to keep the codebase maintainable for continued development."
     ],
     "project_gallery_list": [
       "/images/secinote/gallery-1.png",
@@ -67,26 +67,26 @@
   },
   {
     "id": 3,
-    "title": "Daily Healthy Habit - Functional apps for habit recording.",
-    "description": "Application for recording daily habitual activities to increase user productivity and health.",
+    "title": "Daily Healthy Habit - Functional app for habit recording",
+    "description": "An app for recording daily habits to improve users' productivity and health.",
     "image": "/images/dailyhealthyhabit/preview-daily-habit.png",
     "url": "https://healthyhabit.agileteknik.com",
     "category": "Company Project",
     "company": "Agile PdBL",
     "client": "Public",
-    "about": "I made this project with my team while in Product-based Learning. We created this project for approximately 0ne year to develop the application in the minimum viable product stage. My position on this project is as a lead mobile developer. My contributions to this project include: ",
+    "about": "I built this app with my team during Product-based Learning (Agile PdBL) over approximately one year, taking it to the minimum viable product (MVP) stage. I worked on it as the lead mobile developer. My contributions include:",
     "about_list": [
-      "Become a Lead Mobile Developer on one of the Agile Pdbl teams.",
-      "Integrating API from the Backend to the Mobile Frontend.",
-      "Made some slicing updates to some features.",
-      "Carrying out Quality Security Tests (SQA) to find system errors and optimize usability."
+      "Led one of the Agile PdBL mobile developer teams.",
+      "Integrated backend APIs into the mobile app.",
+      "Sliced UI designs into code for several feature updates.",
+      "Ran software quality assurance (SQA) testing to find bugs and improve usability."
     ],
-    "project_results": "This project has been well received by 100+ users, with several reviews and feedback praising its ease of use and effectiveness in tracking mood changes. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app include some results while I'm joining the project involves:",
+    "project_results": "This app has been well received by 100+ users, with reviews and feedback praising its ease of use. Results while I was on the project:",
     "project_results_list": [
-      "Used by 100+ users on Google Play Store.",
-      "Received several reviews and feedback to consider adding features.",
-      "Collaborate with users to increase engagement on the application.",
-      "Become an exhibition application at the AgileTeknik Festival"
+      "Used by 100+ users on the Google Play Store.",
+      "Gathered reviews and feedback to guide new features.",
+      "Collaborated with users to increase engagement in the app.",
+      "Showcased as an exhibition app at the AgileTeknik Festival."
     ],
     "project_gallery_list": [
       "/images/dailyhealthyhabit/gallery-1.png",
@@ -100,25 +100,25 @@
   },
   {
     "id": 4,
-    "title": "Si Daeng - Platform apps for document management.",
-    "description": "Si Daeng is a digitalization application for document management that utilizes blockchain technology and zero-knowledge proof.",
+    "title": "Si Daeng - Platform app for document management",
+    "description": "Si Daeng is a document management app that uses blockchain technology and zero-knowledge proofs to digitize documents.",
     "image": "/images/sidaeng/preview-sidaeng.png",
     "url": "https://drive.google.com/file/d/11ovFOwdFr_RWHOFPisluRJ4i_Lo28qyj/view?usp=sharing",
     "category": "Self Project",
     "company": "None",
     "client": "Government, Partner, & Public",
-    "about": "I made this project with my team while in the same university. We create this project for the competition that we're joined and got any achievements by this application. My contributions to this project include: ",
+    "about": "I built this app with my university team for a competition. My contributions include:",
     "about_list": [
-      "Become a hacker on the team.",
-      "Slicing the design to the application.",
-      "Implementing the blockchain technology & zero-knowledge proof to the application.",
-      "Integrating Firebase to the application."
+      "Took the Hacker (developer) role on the team.",
+      "Sliced UI designs into the app.",
+      "Implemented blockchain technology and zero-knowledge proofs in the app.",
+      "Integrated Firebase into the app."
     ],
-    "project_results": "This project has been well got any achievements in any competition. This app include some results while I'm joining the project involves:",
+    "project_results": "This app won an award at a competition. Results while I was on the project:",
     "project_results_list": [
-      "Got the 2nd place in the competition.",
-      "Received several reviews and feedback to consider adding features.",
-      "Become an exhibition application at the competition"
+      "Won 2nd place in the competition.",
+      "Gathered reviews and feedback to guide new features.",
+      "Showcased as an exhibition app at the competition."
     ],
     "project_gallery_list": [
       "/images/sidaeng/gallery-1.png",
@@ -132,25 +132,25 @@
   },
   {
     "id": 5,
-    "title": "Sampah Aja - Platform apps for waste management.",
-    "description": "Sampah Aja is a digitalization application for waste digitalization and management using artificial intelligence.",
+    "title": "Sampah Aja - Platform app for waste management",
+    "description": "Sampah Aja is an app that digitizes waste management using artificial intelligence.",
     "image": "/images/sampahaja/preview-sampahaja.png",
     "url": "https://drive.google.com/file/d/1opVNlsl92Vd5Lo6skapqyaqFfhQSaT3-/view?usp=sharing",
     "category": "Self Project",
     "company": "None",
     "client": "Trash Collector & Public",
-    "about": "I made this project with my team while in the same university. We create this project for the competition that we're joined and got any achievements by this application. My contributions to this project include: ",
+    "about": "I built this app with my university team for a competition. My contributions include:",
     "about_list": [
-      "Become a hacker on the team.",
-      "Slicing the design to the application.",
-      "Implementing trash detection using deep learning.",
-      "Integrating Firebase to the application."
+      "Took the Hacker (developer) role on the team.",
+      "Sliced UI designs into the app.",
+      "Implemented trash detection using deep learning.",
+      "Integrated Firebase into the app."
     ],
-    "project_results": "This project has been well got any achievements in any competition. This app include some results while I'm joining the project involves:",
+    "project_results": "This app won awards at several competitions. Results while I was on the project:",
     "project_results_list": [
-      "Got the 1st place in the competition at AMCC CODE 2023 and WINACTION 2023.",
-      "Got the 2st place in the competition at KMIPN V.",
-      "Received several reviews and feedback to consider adding features."
+      "Won 1st place at AMCC CODE 2023 and WINACTION 2023.",
+      "Won 2nd place at KMIPN V.",
+      "Gathered reviews and feedback to guide new features."
     ],
     "project_gallery_list": [
       "/images/sampahaja/gallery-1.png",
@@ -164,26 +164,26 @@
   },
   {
     "id": 6,
-    "title": "SECI Map - Functional apps for creating mind map.",
-    "description": "SECI Map is a simple mind mapping application that allows users to create mind maps and update their mind maps quickly and easily.",
+    "title": "SECI Map - Functional app for creating mind maps",
+    "description": "SECI Map is a simple mind-mapping app that lets users create and update mind maps quickly and easily.",
     "image": "/images/secimap/preview-secimap.png",
     "url": "https://www.secimap.com",
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
-    "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
+    "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
-      "Setting for a gradual release iteratively of the app on the Google Play Store.",
-      "Internationalize the language in the application for international users.",
-      "Arrange to add advertising features to the application to provide income.",
-      "Made some slicing updates to some features."
+      "Managed gradual, iterative releases of the app on the Google Play Store.",
+      "Internationalized the app for international users.",
+      "Added advertising features to generate revenue.",
+      "Sliced UI designs into code for several feature updates."
     ],
-    "project_results": "This project has been well received by 100+ users, with several reviews and feedback praising its ease of use and effectiveness in creating mind map. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app include some results while I'm joining the project involves:",
+    "project_results": "This app has been well received by 100+ users, with reviews and feedback praising its ease of use and effectiveness in creating mind maps. Results while I was on the project:",
     "project_results_list": [
-      "Used by 100+ users on Google Play Store.",
-      "Received several reviews and feedback to consider adding features.",
-      "Earn income during the development stage by adding advertising features.",
-      "Apply several design patterns to several codes to facilitate continued development."
+      "Used by 100+ users on the Google Play Store.",
+      "Gathered reviews and feedback to guide new features.",
+      "Earned revenue during development through advertising features.",
+      "Applied design patterns to keep the codebase maintainable for continued development."
     ],
     "project_gallery_list": [
       "/images/secimap/gallery-1.png",
@@ -197,24 +197,24 @@
   },
   {
     "id": 7,
-    "title": "Daily Plan - Functional apps for planning event and habit recording.",
-    "description": "Daily plan is an application for recording daily habitual activities and planning events to increase user productivity and health.",
+    "title": "Daily Plan - Functional app for event planning and habit recording",
+    "description": "Daily Plan is an app for recording daily habits and planning events to improve users' productivity and health.",
     "image": "/images/dailyplan/preview-dailyplan.png",
     "url": "https://dailyplan.agileteknik.com/",
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
-    "about": "I made this project with my team at the same company. We created this project for approximately 6 months to develop the application to a minimum marketable product stage. My position on this project is as a mobile developer. My contributions to this project include: ",
+    "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
-      "Setting for a gradual release iteratively of the app on the Google Play Store.",
-      "Integrate from old application to new application and features.",
-      "Developing with mvp features iteratively",
-      "Made some slicing updates to some features."
+      "Managed gradual, iterative releases of the app on the Google Play Store.",
+      "Migrated the old app and its features into the new app.",
+      "Developed MVP features iteratively.",
+      "Sliced UI designs into code for several feature updates."
     ],
-    "project_results": "This project is still in the development stage and has just entered the release stage, so it is still looking for target users to get feedback. The app has been featured in several publications and websites, helping to increase its visibility and attract new users. This app includes some of the results when I joined a project involving:",
+    "project_results": "This app has just entered the release stage and is looking for target users to gather feedback. Results while I was on the project:",
     "project_results_list": [
-      "Merging the old application to the new application.",
-      "Collaborate with users to increase engagement on the application."
+      "Merged the old app into the new app.",
+      "Collaborated with users to increase engagement in the app."
     ],
     "project_gallery_list": [
       "/images/dailyplan/gallery-1.png",

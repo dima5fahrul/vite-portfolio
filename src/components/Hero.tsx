@@ -16,8 +16,8 @@ const Hero = ({
                         Expertise grows from facing tough challenges.
                     </h1>
                     <p className="lg:max-w-2xl mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-                        I'm <b>Dimas Fahrul</b>, a <b>mobile developer</b> based in Sidoarjo, Indonesia. Passionate for
-                        creating <b>mobile apps and data scientist</b>.
+                        I'm <b>Dimas Fahrul</b>, a <b>mobile developer</b> based in Sidoarjo, Indonesia. Passionate about
+                        creating <b>mobile apps</b> and exploring <b>data science</b>.
                     </p>
                 </div>
                 <div className="lg:order-first lg:mt-0 lg:col-span-5 relative">

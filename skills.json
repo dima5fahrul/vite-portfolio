@@ -2,17 +2,17 @@
   {
     "id": 0,
     "title": "Mobile Development",
-    "description": "Flutter Framework, Dart, Android Native, Kotlin, Jetpack Compose, Firebase."
+    "description": "Flutter, Dart, Android Native, Kotlin, Jetpack Compose, Firebase."
   },
   {
     "id": 1,
     "title": "Web Development",
-    "description": "HTML & CSS, Tailwind CSS, React JS, Vue JS, Node JS, MongoDB, Flask."
+    "description": "HTML & CSS, Tailwind CSS, React, Vue.js, Node.js, MongoDB, Flask."
   },
   {
     "id": 2,
-    "title": "AI Basic",
-    "description": "Python, Preprocessing, Analytics, Clustering, Classification and Tensorflow"
+    "title": "AI Basics",
+    "description": "Python, preprocessing, analytics, clustering, classification, and TensorFlow."
   },
   {
     "id": 3,
@@ -27,6 +27,6 @@
   {
     "id": 5,
     "title": "Language Proficiency",
-    "description": "Indonesian (Fluent or native language level), English (Intermediate level)."
+    "description": "Indonesian (native), English (intermediate)."
   }
 ]

@@ -6,7 +6,7 @@
     "endYear": "Present",
     "company": "PT LinkIT 360",
     "logo": "/images/linkit.png",
-    "description": "Become a mobile developer in a startup company that focuses on developing mobile applications for various clients."
+    "description": "Working as a mobile developer at a startup that builds mobile applications for various clients."
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "endYear": "Jan 2025",
     "company": "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
     "logo": "/images/bangkit.png",
-    "description": "Completed a total of 9 courses and average rating of 4 stars covering topics from beginner to expert level."
+    "description": "Completed 9 courses, from beginner to expert level, with an average rating of 4 stars."
   },
   {
     "id": 3,
@@ -24,25 +24,25 @@
     "endYear": "Jan 2025",
     "company": "PT Gerakan Ekonomi Indonesia Mandiri",
     "logo": "/images/geni.png",
-    "description": "Integrated LLM varian in mobile application using Flutter Framework to create chatbot in muslim scope."
+    "description": "Integrated an LLM variant into a Flutter mobile app to build a chatbot focused on Islamic topics."
   },
   {
     "id": 4,
     "title": "Mobile Developer Intern",
-    "startYear": "Jan",
+    "startYear": "Jan 2024",
     "endYear": "Jun 2024",
     "company": "AgileTeknik Alliance",
     "logo": "/images/agile-teknik.svg",
-    "description": "Developed a mobile application system, learned design patterns and anti-patterns, iteratively created and integrated development from MVP to MMP."
+    "description": "Developed mobile applications, learned design patterns and anti-patterns, and iteratively took products from MVP to MMP."
   },
   {
     "id": 5,
     "title": "Lead of Mobile Developer Team",
-    "startYear": "Mar",
+    "startYear": "Mar 2023",
     "endYear": "Nov 2023",
     "company": "Agile PdBL",
     "logo": "/images/daily-healthy-habit.png",
-    "description": "Developing Flutter-based apps, integrating backend APIs, performing SQA testing, and collaborating with users to enhance engagement."
+    "description": "Developed Flutter-based apps, integrated backend APIs, performed SQA testing, and collaborated with users to improve engagement."
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "endYear": "Jun 2024",
     "company": "Organization of Informatics & Data Science",
     "logo": "/images/himit.svg",
-    "description": "Be part of the leadership of an organization that designs, organizes, and develops innovative technology events."
+    "description": "Part of the leadership of an organization that designs, organizes, and develops innovative technology events."
   }
 ]

@@ -9,23 +9,23 @@ const About = (props: any, ref: any) => {
             About me
           </h2>
           <p className="lg:max-w-2xl mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            I'm an active student with a years of solid foundation in application development, especially <b>mobile development</b>.
+            I'm an active student with years of solid foundation in application development, especially <b>mobile development</b>.
           </p>
           <p className="lg:max-w-2xl font-normal leading-relaxed text-gray-500 text-xl">
-            Experienced in training development provided by a talented management startup, shaped to
-            become an <b>agile, working software and communicative person</b>.
+            Trained by a talented management startup to become an <b>agile, communicative person who
+            delivers working software</b>.
           </p>
         </div>
         <div className="relative lg:block hidden lg:mt-0 lg:col-span-6 max-w-sm justify-self-end self-end mr-6">
-          <img src="/images/2.jpg" alt="aboout-1" className="transition-all duration-700 opacity-0 animating-image rounded" />
+          <img src="/images/2.jpg" alt="about-1" className="transition-all duration-700 opacity-0 animating-image rounded" />
           <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
         </div>
         <div className="relative lg:col-span-8 lg:justify-self-end self-start lg:max-w-lg">
-          <img src="/images/3.jpg" alt="aboout-2" className="animating-image rounded" />
+          <img src="/images/3.jpg" alt="about-2" className="animating-image rounded" />
           <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
         </div>
         <div className="relative lg:col-span-4 lg:justify-self-end lg:max-w-sm">
-          <img src="/images/7.jpg" alt="aboout-3" className="animating-image rounded" />
+          <img src="/images/7.jpg" alt="about-3" className="animating-image rounded" />
           <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
         </div>
         <img

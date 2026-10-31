@@ -2,26 +2,26 @@
   {
     "id": 0,
     "title": "Android Studio",
-    "description": "I trying to adapt to this IDE because it is very powerful and has a lot of features for Kotlin and Jetpack Compose development since become Bangkit Cohort."
+    "description": "I've been adapting to this IDE since joining the Bangkit cohort, because it is powerful and has many features for Kotlin and Jetpack Compose development."
   },
   {
     "id": 1,
     "title": "IntelliJ IDEA",
-    "description": "Just like Android Studio, this IDE is the parent of any IDE in Jetbrains tools. I'm using this IDE in React web development and Flutter development with Dart."
+    "description": "The foundation of the JetBrains IDEs, including Android Studio. I use it for React web development and Flutter development with Dart."
   },
   {
     "id": 2,
     "title": "Visual Studio Code",
-    "description": "This is my main IDE for my development. I'm using on it since my first time know programming. It has a lot of extensions and features that make it customizable."
+    "description": "My main IDE since I started programming. Its many extensions and features make it highly customizable."
   },
   {
     "id": 3,
     "title": "Postman",
-    "description": "It is a reliable API client application and often helps me to test the APIs I create"
+    "description": "A reliable API client that helps me test the APIs I build."
   },
   {
     "id": 4,
     "title": "Git",
-    "description": "A popular tool that helps collaborate with teams in working on projects."
+    "description": "A popular version control tool that helps me collaborate with teams on projects."
   }
 ]

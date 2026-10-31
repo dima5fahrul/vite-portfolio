@@ -8,6 +8,8 @@
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",
@@ -42,6 +44,8 @@
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",
@@ -76,6 +80,11 @@
     "category": "Company Project",
     "company": "Agile PdBL",
     "client": "Public",
+    "role": "Lead Mobile Developer",
+    "stack": [
+      "Flutter",
+      "REST API"
+    ],
     "about": "I built this app with my team during Product-based Learning (Agile PdBL) over approximately one year, taking it to the minimum viable product (MVP) stage. I worked on it as the lead mobile developer. My contributions include:",
     "about_list": [
       "Led one of the Agile PdBL mobile developer teams.",
@@ -110,6 +119,13 @@
     "category": "Self Project",
     "company": "",
     "client": "Government, Partner, & Public",
+    "role": "Hacker (Mobile Developer)",
+    "stack": [
+      "BigchainDB",
+      "Firebase",
+      "Blockchain",
+      "Zero-Knowledge Proof"
+    ],
     "about": "I built this app with my university team for a competition. My contributions include:",
     "about_list": [
       "Took the Hacker (developer) role on the team.",
@@ -143,6 +159,11 @@
     "category": "Self Project",
     "company": "",
     "client": "Trash Collector & Public",
+    "role": "Hacker (Developer)",
+    "stack": [
+      "Deep Learning",
+      "Firebase"
+    ],
     "about": "I built this app with my university team for a competition. My contributions include:",
     "about_list": [
       "Took the Hacker (developer) role on the team.",
@@ -176,6 +197,8 @@
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",
@@ -210,6 +233,8 @@
     "category": "Company Project",
     "company": "AgileTeknik",
     "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",

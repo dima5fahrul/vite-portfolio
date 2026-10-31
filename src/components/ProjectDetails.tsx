@@ -4,6 +4,7 @@ import projects from '../../portfolio.json'
 import Button from './Button'
 import ArrowTopRight from './ArrowTopRight'
 import PreFooter from './PreFooter'
+import StackTags from './StackTags'
 import {logEvent} from "firebase/analytics";
 import {analytics} from "../config/FirebaseConfig";
 
@@ -39,6 +40,7 @@ const ProjectDetails = () => {
                         <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
                             {selectedProject.description}
                         </p>
+                        <StackTags stack={selectedProject.stack}/>
                     </div>
                     <Button runFunc={scrollToDetails}
                             classNames="lg:col-span-5 lg:w-28 lg:h-28 w-24 h-24 lg:place-self-center"/>
@@ -73,26 +75,26 @@ const ProjectDetails = () => {
             >
                 <div>
                     <h3 className="font-semibold text-lg">
+                        Role
+                    </h3>
+                    <p className="text-xl mt-3 text-gray-500 font-normal">
+                        {selectedProject.role}
+                    </p>
+                </div>
+                <div>
+                    <h3 className="font-semibold text-lg">
+                        Company
+                    </h3>
+                    <p className="text-xl mt-3 text-gray-500 font-normal">
+                        {selectedProject.company || selectedProject.category}
+                    </p>
+                </div>
+                <div>
+                    <h3 className="font-semibold text-lg">
                         Client
                     </h3>
                     <p className="text-xl mt-3 text-gray-500 font-normal">
                         {selectedProject.client}
-                    </p>
-                </div>
-                <div>
-                    <h3 className="font-semibold text-lg">
-                        Services
-                    </h3>
-                    <p className="text-xl mt-3 text-gray-500 font-normal">
-                        {selectedProject.company || '-'}
-                    </p>
-                </div>
-                <div>
-                    <h3 className="font-semibold text-lg">
-                        Deliverables
-                    </h3>
-                    <p className="text-xl mt-3 text-gray-500 font-normal">
-                        {selectedProject.category}
                     </p>
                 </div>
                 <div>

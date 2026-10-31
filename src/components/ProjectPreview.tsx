@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import StackTags from './StackTags'
 interface Props {
   work: any
 }
@@ -9,7 +10,7 @@ const ProjectPreview = ({ work }: Props) => {
         <div className="relative grid mx-auto lg:gap-8 xl:gap-0 lg:grid-cols-12">
           <div className="lg:px-12 lg:py-auto px-6 py-6 place-self-center lg:col-span-6">
             <p className="font-medium tracking-wide text-lg md:text-xl mb-3">
-              {work.company && <>{work.company}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;</>}{work.category}
+              {work.company || work.category}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;{work.role}
             </p>
             <h4 className="mb-4 text-2xl font-semibold md:text-3xl">
               {work.title}
@@ -17,6 +18,7 @@ const ProjectPreview = ({ work }: Props) => {
             <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 md:text-xl text-lg">
               {work.description}
             </p>
+            <StackTags stack={work.stack} classNames="mb-6 lg:mb-8" />
           </div>
           <div className="lg:order-none order-first lg:mt-0 lg:col-span-6 relative overflow-hidden">
             <img src={work.image} alt="hero" className="transition-all duration-700 opacity-0 animating-image group-hover:scale-110" />

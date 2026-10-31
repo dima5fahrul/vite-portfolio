@@ -23,37 +23,14 @@ const Contact = () => {
         try {
             const docRef = await addDoc(collectionData, data)
             console.log("Document written with ID: ", docRef.id);
-            alert('Message sent successfully!')
-            logEvent(analytics, 'submit_form', {
-                name: name,
-                email: email,
-                details: details
-            })
-            toast.success("✉️ Success send a message!", {
-                position: "top-right",
-                autoClose: 5000,
-                hideProgressBar: false,
-                closeOnClick: true,
-                pauseOnHover: true,
-                draggable: true,
-                progress: undefined,
-                theme: "light",
-            });
+            logEvent(analytics, 'submit_form')
+            toast.success("✉️ Success send a message!");
             setName('')
             setEmail('')
             setDetails('')
         } catch (error) {
             console.error('Error adding document: ', error);
-            toast.error("❌ Failed to send a message", {
-                position: "top-right",
-                autoClose: 5000,
-                hideProgressBar: false,
-                closeOnClick: true,
-                pauseOnHover: true,
-                draggable: true,
-                progress: undefined,
-                theme: "light",
-            });
+            toast.error("❌ Failed to send a message");
         }
     }
 

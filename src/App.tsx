@@ -9,6 +9,8 @@ import Resume from './pages/Resume'
 import ProjectDetails from './components/ProjectDetails'
 import {Analytics} from "@vercel/analytics/react";
 import {SpeedInsights} from "@vercel/speed-insights/react"
+import {ToastContainer} from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 
 window.addEventListener('load', scrollReveal)
@@ -21,6 +23,15 @@ function App() {
         <div className="App container md:max-w-7xl mx-auto">
             <Analytics/>
             <SpeedInsights/>
+            <ToastContainer
+                position="top-right"
+                autoClose={5000}
+                hideProgressBar={false}
+                closeOnClick
+                pauseOnHover
+                draggable
+                theme="light"
+            />
             <Navbar/>
             <ScrollToTop>
                 <Routes>

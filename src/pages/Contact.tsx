@@ -2,9 +2,7 @@ import {useState} from 'react'
 import AnimatedLink from '../components/AnimatedLink'
 import ArrowTopRight from '../components/ArrowTopRight'
 import socialLinks from '../../socialLinks.json'
-import {analytics, db} from "../config/FirebaseConfig";
-import {collection, addDoc} from "firebase/firestore";
-import {logEvent} from "firebase/analytics";
+import {logAnalyticsEvent, saveContactMessage} from "../util/firebase";
 import {toast} from "react-toastify";
 
 const Contact = () => {
@@ -12,7 +10,6 @@ const Contact = () => {
     const [email, setEmail] = useState('')
     const [details, setDetails] = useState('')
 
-    const collectionData = collection(db, "contacts");
     const data = {
         name, email, details
     }
@@ -21,9 +18,9 @@ const Contact = () => {
         e.preventDefault()
 
         try {
-            const docRef = await addDoc(collectionData, data)
+            const docRef = await saveContactMessage(data)
             console.log("Document written with ID: ", docRef.id);
-            logEvent(analytics, 'submit_form')
+            logAnalyticsEvent('submit_form')
             toast.success("✉️ Message sent successfully!");
             setName('')
             setEmail('')

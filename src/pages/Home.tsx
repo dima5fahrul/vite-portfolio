@@ -4,12 +4,11 @@ import About from '../components/About'
 import Experience from '../components/Experience'
 import PreFooter from '../components/PreFooter'
 import PastProjects from '../components/PastProjects'
-import {logEvent} from "firebase/analytics";
-import {analytics} from "../config/FirebaseConfig";
+import {logAnalyticsEvent} from "../util/firebase";
 
 const Home = () => {
     const targetElem = useRef();
-    useEffect(() => logEvent(analytics, 'landing_home'), [analytics]);
+    useEffect(() => logAnalyticsEvent('landing_home'), []);
 
     const scrollIntoView = () => {
         const elmnt: any = targetElem

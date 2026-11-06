@@ -5,20 +5,19 @@ import Button from './Button'
 import ArrowTopRight from './ArrowTopRight'
 import PreFooter from './PreFooter'
 import StackTags from './StackTags'
-import {logEvent} from "firebase/analytics";
-import {analytics} from "../config/FirebaseConfig";
+import {logAnalyticsEvent} from "../util/firebase";
 
 const ProjectDetails = () => {
     const {slug} = useParams()
     const targetElem = useRef(null)
 
-    useEffect(() => logEvent(analytics, 'project_detail', {
+    useEffect(() => logAnalyticsEvent('project_detail', {
         slug: slug
-    }), [analytics]);
+    }), [slug]);
 
     const selectedProject: any = useMemo(() => {
         return slug ? projects.find((project: any) => project.slug.toLowerCase() == slug.toLowerCase()) : null
-    }, [])
+    }, [slug])
 
     const scrollToDetails = () => {
         const elmnt: any = targetElem

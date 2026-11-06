@@ -3,8 +3,7 @@ import categories from '../../categories.json'
 import portfolioList from '../../portfolio.json'
 import PortfolioProject from '../components/PortfolioProject'
 import ArrowTopRight from '../components/ArrowTopRight'
-import {logEvent} from "firebase/analytics";
-import {analytics} from "../config/FirebaseConfig";
+import {logAnalyticsEvent} from "../util/firebase";
 
 const Portfolio = () => {
     const [selectedOption, setSelectedOption] = useState('')
@@ -26,8 +25,8 @@ const Portfolio = () => {
 
     useEffect(() => {
         setSelectedOption(categories[0].title)
-        logEvent(analytics, 'portfolio_viewed')
-    }, [analytics])
+        logAnalyticsEvent('portfolio_viewed')
+    }, [])
 
 
     return (

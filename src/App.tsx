@@ -1,5 +1,7 @@
+import {useEffect} from 'react'
 import {Routes, Route} from 'react-router-dom'
 import {scrollReveal} from './util/scrollReveal'
+import {initAnalytics} from './util/firebase'
 import ScrollToTop from './components/ScrollToTop'
 import Navbar from './components/Navbar'
 import Home from './pages/Home'
@@ -19,6 +21,7 @@ window.addEventListener('scroll', scrollReveal)
 window.addEventListener('resize', scrollReveal)
 
 function App() {
+    useEffect(() => initAnalytics(), [])
 
     return (
         <div className="App container md:max-w-7xl mx-auto">

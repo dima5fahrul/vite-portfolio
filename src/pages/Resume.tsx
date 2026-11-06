@@ -1,11 +1,10 @@
 import ResumeTab from "../components/ResumeTab"
 import resumeOptions from '../../resumeOptions.json'
-import {logEvent} from "firebase/analytics";
 import {useEffect} from "react";
-import {analytics} from "../config/FirebaseConfig";
+import {logAnalyticsEvent} from "../util/firebase";
 
 const Resume = () => {
-    useEffect(() => logEvent(analytics, 'landing_home'), [analytics]);
+    useEffect(() => logAnalyticsEvent('resume_viewed'), []);
 
     return (
         <div className="flex flex-col divide-y dark:divide-gray-600 md:max-w-5xl mx-auto">

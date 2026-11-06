@@ -12,7 +12,7 @@ const Resume = () => {
             <section className="bg-white dark:bg-neutral-900 py-20 lg:py-32">
                 <div className="flex flex-col gap-y-7 items-center justify-center text-center">
                     <img
-                        src="/images/6.jpg"
+                        src="/images/6.webp"
                         alt="avatar"
                         className="
               w-32

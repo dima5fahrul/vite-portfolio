@@ -3,7 +3,7 @@
     "id": 1,
     "title": "NikoMood - Functional app for mood tracking",
     "description": "NikoMood is an app that tracks and records mood changes. It helps identify patterns and factors that influence emotions, and offers interactive graphical analysis and AI-based summaries for valuable insights into mental well-being.",
-    "image": "/images/nikomood/preview-niko-mood.jpg",
+    "image": "/images/nikomood/preview-niko-mood.webp",
     "url": "https://moodtracker.agileteknik.com",
     "category": "Company Project",
     "company": "AgileTeknik",
@@ -25,21 +25,21 @@
       "Applied design patterns to keep the codebase maintainable for continued development."
     ],
     "project_gallery_list": [
-      "/images/nikomood/gallery-1.png",
-      "/images/nikomood/gallery-2.png",
-      "/images/nikomood/gallery-3.png",
-      "/images/nikomood/gallery-4.png",
-      "/images/nikomood/gallery-5.png"
+      "/images/nikomood/gallery-1.webp",
+      "/images/nikomood/gallery-2.webp",
+      "/images/nikomood/gallery-3.webp",
+      "/images/nikomood/gallery-4.webp",
+      "/images/nikomood/gallery-5.webp"
     ],
     "slug": "functional-apps-for-mood-tracking",
-    "banner": "/images/nikomood/banner-niko-mood.png",
+    "banner": "/images/nikomood/banner-niko-mood.webp",
     "featured": true
   },
   {
     "id": 2,
     "title": "SECI Note - Functional app for note-taking",
     "description": "SECI Note is a simple note-taking app that lets users create and update notes quickly and easily.",
-    "image": "/images/secinote/preview-seci-note.png",
+    "image": "/images/secinote/preview-seci-note.webp",
     "url": "https://notetaker.agileteknik.com",
     "category": "Company Project",
     "company": "AgileTeknik",
@@ -61,21 +61,21 @@
       "Applied design patterns to keep the codebase maintainable for continued development."
     ],
     "project_gallery_list": [
-      "/images/secinote/gallery-1.png",
-      "/images/secinote/gallery-2.png",
-      "/images/secinote/gallery-3.png",
-      "/images/secinote/gallery-4.png",
-      "/images/secinote/gallery-5.png"
+      "/images/secinote/gallery-1.webp",
+      "/images/secinote/gallery-2.webp",
+      "/images/secinote/gallery-3.webp",
+      "/images/secinote/gallery-4.webp",
+      "/images/secinote/gallery-5.webp"
     ],
     "slug": "functional-apps-for-note-taking",
-    "banner": "/images/secinote/banner-seci-note.png",
+    "banner": "/images/secinote/banner-seci-note.webp",
     "featured": false
   },
   {
     "id": 3,
     "title": "Daily Healthy Habit - Functional app for habit recording",
     "description": "An app for recording daily habits to improve users' productivity and health.",
-    "image": "/images/dailyhealthyhabit/preview-daily-habit.png",
+    "image": "/images/dailyhealthyhabit/preview-daily-habit.webp",
     "url": "https://healthyhabit.agileteknik.com",
     "category": "Company Project",
     "company": "Agile PdBL",
@@ -100,21 +100,21 @@
       "Showcased as an exhibition app at the AgileTeknik Festival."
     ],
     "project_gallery_list": [
-      "/images/dailyhealthyhabit/gallery-1.png",
-      "/images/dailyhealthyhabit/gallery-2.png",
-      "/images/dailyhealthyhabit/gallery-3.png",
-      "/images/dailyhealthyhabit/gallery-4.png",
-      "/images/dailyhealthyhabit/gallery-5.png"
+      "/images/dailyhealthyhabit/gallery-1.webp",
+      "/images/dailyhealthyhabit/gallery-2.webp",
+      "/images/dailyhealthyhabit/gallery-3.webp",
+      "/images/dailyhealthyhabit/gallery-4.webp",
+      "/images/dailyhealthyhabit/gallery-5.webp"
     ],
     "slug": "functional-apps-for-habit-recording",
-    "banner": "/images/dailyhealthyhabit/banner-daily-habit.png",
+    "banner": "/images/dailyhealthyhabit/banner-daily-habit.webp",
     "featured": true
   },
   {
     "id": 4,
     "title": "Si Daeng - Platform app for document management",
     "description": "Si Daeng is a document management app that uses blockchain technology and zero-knowledge proofs to digitize documents.",
-    "image": "/images/sidaeng/preview-sidaeng.png",
+    "image": "/images/sidaeng/preview-sidaeng.webp",
     "url": "https://drive.google.com/file/d/11ovFOwdFr_RWHOFPisluRJ4i_Lo28qyj/view?usp=sharing",
     "category": "Self Project",
     "company": "",
@@ -140,21 +140,21 @@
       "Showcased as an exhibition app at the competition."
     ],
     "project_gallery_list": [
-      "/images/sidaeng/gallery-1.png",
-      "/images/sidaeng/gallery-2.png",
-      "/images/sidaeng/gallery-3.png",
-      "/images/sidaeng/gallery-4.png",
-      "/images/sidaeng/gallery-5.png"
+      "/images/sidaeng/gallery-1.webp",
+      "/images/sidaeng/gallery-2.webp",
+      "/images/sidaeng/gallery-3.webp",
+      "/images/sidaeng/gallery-4.webp",
+      "/images/sidaeng/gallery-5.webp"
     ],
     "slug": "platform-apps-for-document-management",
-    "banner": "/images/sidaeng/banner-sidaeng.png",
+    "banner": "/images/sidaeng/banner-sidaeng.webp",
     "featured": true
   },
   {
     "id": 5,
     "title": "Sampah Aja - Platform app for waste management",
     "description": "Sampah Aja is an app that digitizes waste management using artificial intelligence.",
-    "image": "/images/sampahaja/preview-sampahaja.png",
+    "image": "/images/sampahaja/preview-sampahaja.webp",
     "url": "https://drive.google.com/file/d/1opVNlsl92Vd5Lo6skapqyaqFfhQSaT3-/view?usp=sharing",
     "category": "Self Project",
     "company": "",
@@ -178,21 +178,21 @@
       "Gathered reviews and feedback to guide new features."
     ],
     "project_gallery_list": [
-      "/images/sampahaja/gallery-1.png",
-      "/images/sampahaja/gallery-2.png",
-      "/images/sampahaja/gallery-3.png",
-      "/images/sampahaja/gallery-4.png",
-      "/images/sampahaja/gallery-5.png"
+      "/images/sampahaja/gallery-1.webp",
+      "/images/sampahaja/gallery-2.webp",
+      "/images/sampahaja/gallery-3.webp",
+      "/images/sampahaja/gallery-4.webp",
+      "/images/sampahaja/gallery-5.webp"
     ],
     "slug": "platform-apps-for-waste-management",
-    "banner": "/images/sampahaja/banner-sampahaja.png",
+    "banner": "/images/sampahaja/banner-sampahaja.webp",
     "featured": true
   },
   {
     "id": 6,
     "title": "SECI Map - Functional app for creating mind maps",
     "description": "SECI Map is a simple mind-mapping app that lets users create and update mind maps quickly and easily.",
-    "image": "/images/secimap/preview-secimap.png",
+    "image": "/images/secimap/preview-secimap.webp",
     "url": "https://www.secimap.com",
     "category": "Company Project",
     "company": "AgileTeknik",
@@ -214,21 +214,21 @@
       "Applied design patterns to keep the codebase maintainable for continued development."
     ],
     "project_gallery_list": [
-      "/images/secimap/gallery-1.png",
-      "/images/secimap/gallery-2.png",
-      "/images/secimap/gallery-3.png",
-      "/images/secimap/gallery-4.png",
-      "/images/secimap/gallery-5.png"
+      "/images/secimap/gallery-1.webp",
+      "/images/secimap/gallery-2.webp",
+      "/images/secimap/gallery-3.webp",
+      "/images/secimap/gallery-4.webp",
+      "/images/secimap/gallery-5.webp"
     ],
     "slug": "functional-apps-for-creating-mind-map",
-    "banner": "/images/secimap/banner-secimap.png",
+    "banner": "/images/secimap/banner-secimap.webp",
     "featured": false
   },
   {
     "id": 7,
     "title": "Daily Plan - Functional app for event planning and habit recording",
     "description": "Daily Plan is an app for recording daily habits and planning events to improve users' productivity and health.",
-    "image": "/images/dailyplan/preview-dailyplan.png",
+    "image": "/images/dailyplan/preview-dailyplan.webp",
     "url": "https://dailyplan.agileteknik.com/",
     "category": "Company Project",
     "company": "AgileTeknik",
@@ -248,14 +248,14 @@
       "Collaborated with users to increase engagement in the app."
     ],
     "project_gallery_list": [
-      "/images/dailyplan/gallery-1.png",
-      "/images/dailyplan/gallery-2.png",
-      "/images/dailyplan/gallery-3.png",
-      "/images/dailyplan/gallery-4.png",
-      "/images/dailyplan/gallery-5.png"
+      "/images/dailyplan/gallery-1.webp",
+      "/images/dailyplan/gallery-2.webp",
+      "/images/dailyplan/gallery-3.webp",
+      "/images/dailyplan/gallery-4.webp",
+      "/images/dailyplan/gallery-5.webp"
     ],
     "slug": "functional-apps-for-planning-event-and-habit-recording",
-    "banner": "/images/dailyplan/banner-dailyplan.png",
+    "banner": "/images/dailyplan/banner-dailyplan.webp",
     "featured": false
   }
 ]

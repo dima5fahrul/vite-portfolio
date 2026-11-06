@@ -21,7 +21,7 @@ const Hero = ({
                     </p>
                 </div>
                 <div className="lg:order-first lg:mt-0 lg:col-span-5 relative">
-                    <img src="/images/4.jpg" alt="hero"
+                    <img src="/images/4.webp" alt="hero"
                          className="transition-all duration-700 opacity-0 animating-image rounded"/>
                     <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full"/>
                 </div>

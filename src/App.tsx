@@ -1,5 +1,5 @@
 import {useEffect} from 'react'
-import {Routes, Route} from 'react-router-dom'
+import {Routes, Route, useLocation} from 'react-router-dom'
 import {scrollReveal} from './util/scrollReveal'
 import {initAnalytics} from './util/firebase'
 import ScrollToTop from './components/ScrollToTop'
@@ -21,7 +21,12 @@ window.addEventListener('scroll', scrollReveal)
 window.addEventListener('resize', scrollReveal)
 
 function App() {
+    const location = useLocation()
+
     useEffect(() => initAnalytics(), [])
+
+    // Route changes render new images without a load/scroll event, so reveal them here.
+    useEffect(() => scrollReveal(), [location])
 
     return (
         <div className="App container md:max-w-7xl mx-auto">

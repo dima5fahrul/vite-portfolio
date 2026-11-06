@@ -4,6 +4,7 @@ import portfolioList from '../../portfolio.json'
 import PortfolioProject from '../components/PortfolioProject'
 import ArrowTopRight from '../components/ArrowTopRight'
 import {logAnalyticsEvent} from "../util/firebase";
+import {scrollReveal} from "../util/scrollReveal";
 
 const Portfolio = () => {
     const [selectedOption, setSelectedOption] = useState('')
@@ -27,6 +28,9 @@ const Portfolio = () => {
         setSelectedOption(categories[0].title)
         logAnalyticsEvent('portfolio_viewed')
     }, [])
+
+    // Switching category or loading more shows new images without a scroll event.
+    useEffect(() => scrollReveal(), [filteredProjects, perPage])
 
 
     return (

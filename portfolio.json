@@ -9,7 +9,12 @@
     "company": "AgileTeknik",
     "client": "Public",
     "role": "Mobile Developer",
-    "stack": [],
+    "stack": [
+      "Flutter",
+      "Localization",
+      "Advertising",
+      "Google Play Store"
+    ],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",
@@ -33,7 +38,7 @@
     ],
     "slug": "functional-apps-for-mood-tracking",
     "banner": "/images/nikomood/banner-niko-mood.webp",
-    "featured": true
+    "featured": false
   },
   {
     "id": 2,
@@ -45,7 +50,12 @@
     "company": "AgileTeknik",
     "client": "Public",
     "role": "Mobile Developer",
-    "stack": [],
+    "stack": [
+      "Flutter",
+      "Localization",
+      "Advertising",
+      "Google Play Store"
+    ],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",
@@ -108,7 +118,7 @@
     ],
     "slug": "functional-apps-for-habit-recording",
     "banner": "/images/dailyhealthyhabit/banner-daily-habit.webp",
-    "featured": true
+    "featured": false
   },
   {
     "id": 4,
@@ -148,7 +158,7 @@
     ],
     "slug": "platform-apps-for-document-management",
     "banner": "/images/sidaeng/banner-sidaeng.webp",
-    "featured": true
+    "featured": false
   },
   {
     "id": 5,
@@ -186,7 +196,7 @@
     ],
     "slug": "platform-apps-for-waste-management",
     "banner": "/images/sampahaja/banner-sampahaja.webp",
-    "featured": true
+    "featured": false
   },
   {
     "id": 6,
@@ -198,7 +208,12 @@
     "company": "AgileTeknik",
     "client": "Public",
     "role": "Mobile Developer",
-    "stack": [],
+    "stack": [
+      "Flutter",
+      "Localization",
+      "Advertising",
+      "Google Play Store"
+    ],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",
@@ -234,7 +249,11 @@
     "company": "AgileTeknik",
     "client": "Public",
     "role": "Mobile Developer",
-    "stack": [],
+    "stack": [
+      "Flutter",
+      "Data Migration",
+      "Google Play Store"
+    ],
     "about": "I built this app with my team at AgileTeknik over approximately 6 months, taking it to the minimum marketable product (MMP) stage. I worked on it as a mobile developer. My contributions include:",
     "about_list": [
       "Managed gradual, iterative releases of the app on the Google Play Store.",
@@ -257,5 +276,233 @@
     "slug": "functional-apps-for-planning-event-and-habit-recording",
     "banner": "/images/dailyplan/banner-dailyplan.webp",
     "featured": false
+  },
+  {
+    "id": 8,
+    "title": "HeyMika - AI study companion app for learners",
+    "description": "HeyMika is an AI study companion for Indonesian learners. Upload study material, get AI summaries, quizzes and flashcards, and study together with Mika, a friendly manga kitten tutor. Available on the web and as a native Android app.",
+    "image": "/images/heymika/preview-heymika.webp",
+    "url": "https://drive.google.com/file/d/1hAonkAVcKIv7-A3HacqVp3G4oLXpSicB/view?usp=drive_link",
+    "category": "Self Project",
+    "company": "",
+    "client": "Indonesian Learners",
+    "role": "Android Developer",
+    "stack": [
+      "Kotlin",
+      "Jetpack Compose",
+      "Clean Architecture",
+      "Room"
+    ],
+    "about": "HeyMika is a platform with a web app (heymika.web.id), built by another developer, and a native Android app. I build the Android app on my own, from design system to feature modules. My contributions include:",
+    "about_list": [
+      "Built the Android app in Kotlin and Jetpack Compose with clean architecture and Koin dependency injection.",
+      "Turned the Google Stitch mockups into a reusable design system with its own theme tokens and components.",
+      "Split features into dynamic feature modules delivered on demand through Play Feature Delivery.",
+      "Stored data locally in an encrypted Room database and processed study material in the background with WorkManager.",
+      "Mapped the Android data layer to the web platform's API, so the app can later switch from a fake backend to the real one."
+    ],
+    "project_results": "This app is still in development and has not been released to the public yet. Progress so far:",
+    "project_results_list": [
+      "Finished the design system, authentication, password recovery and study material workspace.",
+      "Covered the core with 350+ unit tests and a CI pipeline that checks lint, tests and release builds.",
+      "Shipped a working debug build for testing, with a fake backend that can be swapped for the real web API."
+    ],
+    "project_gallery_list": [
+      "/images/heymika/gallery-1.webp",
+      "/images/heymika/gallery-2.webp",
+      "/images/heymika/gallery-3.webp",
+      "/images/heymika/gallery-4.webp",
+      "/images/heymika/gallery-5.webp"
+    ],
+    "slug": "functional-apps-for-ai-study-companion",
+    "banner": "/images/heymika/banner-heymika.webp",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "SellGo - Functional app for field sales management",
+    "description": "SellGo is a work app for promoters and field sales teams. Attendance with selfie and GPS, daily activities, sales records, and transparent KPI scores are in one app and visible to supervisors and company admins.",
+    "image": "/images/sellgo/preview-sellgo.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.shelter.sellgo&hl=id",
+    "category": "Company Project",
+    "company": "PT Shelter Indonesia",
+    "client": "Companies with field sales teams",
+    "role": "Mobile Developer (Freelance)",
+    "stack": [
+      "Flutter",
+      "BLoC",
+      "Clean Architecture",
+      "GPS"
+    ],
+    "about": "I built this app from scratch as a freelance mobile developer for PT Shelter Indonesia, in a 3-month cycle. My contributions include:",
+    "about_list": [
+      "Built the whole Android app in Flutter with Clean Architecture and BLoC state management, so it stays modular, testable, and scalable.",
+      "Built attendance with camera-only selfie and face detection, matched against the assigned work location and radius with GPS.",
+      "Built daily activity checklists with photo proof, and sales records with draft, validation status, and photo evidence.",
+      "Built the KPI score screens with grades from A to D and a point breakdown for each indicator.",
+      "Wrote the project documentation for the company, including the proposal, man-days per feature, and system reports."
+    ],
+    "project_results": "This app is published on the Google Play Store and is used by field sales employees of companies that use SellGo. Results while I was on the project:",
+    "project_results_list": [
+      "Released on the Google Play Store with a company-managed account flow and no public sign-up.",
+      "Gave supervisors and admins live visibility of attendance, activities, and sales through the web dashboard.",
+      "Kept the app privacy-friendly: location is read only while attending, and photos are resized on the phone before upload."
+    ],
+    "project_gallery_list": [
+      "/images/sellgo/gallery-1.webp",
+      "/images/sellgo/gallery-2.webp",
+      "/images/sellgo/gallery-3.webp",
+      "/images/sellgo/gallery-4.webp",
+      "/images/sellgo/gallery-5.webp"
+    ],
+    "slug": "functional-apps-for-field-sales-management",
+    "banner": "/images/sellgo/banner-sellgo.webp",
+    "featured": true
+  },
+  {
+    "id": 10,
+    "title": "Ubiis - Platform app for low-emission travel recommendations",
+    "description": "Ubiis is a travel recommendation app that reduces carbon emissions from vehicles. It suggests routes, estimates the carbon emissions of each route, and keeps a history of the routes you take.",
+    "image": "/images/ubiis/preview-ubiis.webp",
+    "url": "https://drive.google.com/file/d/1fGczV9L2uMM8hyjnwbOvTLs1wSPeqHyd/view?usp=sharing",
+    "category": "Self Project",
+    "company": "",
+    "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "about": "I built this app as a self project and entered it in a competition. My contributions include:",
+    "about_list": [
+      "Built the mobile app in Flutter and integrated Firebase.",
+      "Built the route creation flow with a map, step-by-step directions, and route history.",
+      "Showed the estimated carbon emissions of each route so users can pick a greener way to travel.",
+      "Sliced UI designs into code."
+    ],
+    "project_results": "This app was recognized in a competition. Results while I was on the project:",
+    "project_results_list": [
+      "Won 2nd place in the competition."
+    ],
+    "project_gallery_list": [
+      "/images/ubiis/gallery-1.webp",
+      "/images/ubiis/gallery-2.webp",
+      "/images/ubiis/gallery-3.webp",
+      "/images/ubiis/gallery-4.webp",
+      "/images/ubiis/gallery-5.webp"
+    ],
+    "slug": "platform-apps-for-low-emission-travel",
+    "banner": "/images/ubiis/banner-ubiis.webp",
+    "featured": true
+  },
+  {
+    "id": 11,
+    "title": "Scan2Pay - Platform app for digital payment with limited lending",
+    "description": "Scan2Pay is a temporary digital payment app with limited lending. Users pay with a QR code against a transaction limit and pay the bill later.",
+    "image": "/images/scan2pay/preview-scan2pay.webp",
+    "url": "https://drive.google.com/file/d/1ONMlPdaNajmI9lcdglwhJc86h7f1xkYk/view?usp=sharing",
+    "category": "Self Project",
+    "company": "",
+    "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "about": "I built this app as a self project and entered it in a competition. My contributions include:",
+    "about_list": [
+      "Built the mobile app in Flutter and integrated Firebase.",
+      "Built the QR code payment flow and the payment summary screen.",
+      "Built the transaction limit, bill, and recent transaction screens.",
+      "Sliced UI designs into code."
+    ],
+    "project_results": "This app reached the final of a competition. Results while I was on the project:",
+    "project_results_list": [
+      "Became a finalist in the competition."
+    ],
+    "project_gallery_list": [
+      "/images/scan2pay/gallery-1.webp",
+      "/images/scan2pay/gallery-2.webp",
+      "/images/scan2pay/gallery-3.webp",
+      "/images/scan2pay/gallery-4.webp",
+      "/images/scan2pay/gallery-5.webp"
+    ],
+    "slug": "platform-apps-for-limited-lending-payment",
+    "banner": "/images/scan2pay/banner-scan2pay.webp",
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "SkolAi - Platform app for flipped classroom learning",
+    "description": "SkolAi is a flipped classroom app for online learning, with a chatbot on certain learning materials.",
+    "image": "/images/skolai/preview-skolai.webp",
+    "url": "https://drive.google.com/file/d/1yBasofF0b1kBYg9MsFmbfcP5zd5AK2pM/view?usp=sharing",
+    "category": "Self Project",
+    "company": "",
+    "client": "Students & Teachers",
+    "role": "Mobile Developer",
+    "stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "about": "I built this app as a self project and entered it in a competition. My contributions include:",
+    "about_list": [
+      "Built the mobile app in Flutter and integrated Firebase.",
+      "Built the class list, class code entry, and learning material screens, including video materials.",
+      "Built the chatbot screen that answers questions about the learning materials.",
+      "Sliced UI designs into code."
+    ],
+    "project_results": "This app won a competition. Results while I was on the project:",
+    "project_results_list": [
+      "Won 1st place in the competition."
+    ],
+    "project_gallery_list": [
+      "/images/skolai/gallery-1.webp",
+      "/images/skolai/gallery-2.webp",
+      "/images/skolai/gallery-3.webp",
+      "/images/skolai/gallery-4.webp",
+      "/images/skolai/gallery-5.webp"
+    ],
+    "slug": "platform-apps-for-flipped-classroom",
+    "banner": "/images/skolai/banner-skolai.webp",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "MyVia - Functional app for PPOB payment",
+    "description": "MyVia is a PPOB app for payments including mobile credit, data packages, electricity, bills, e-wallet, and game top-ups.",
+    "image": "/images/myvia/preview-myvia.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.via.apps_ppob_via&hl=id",
+    "category": "Company Project",
+    "company": "PT LinkIT 360",
+    "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [
+      "Flutter",
+      "Firebase",
+      "PPOB"
+    ],
+    "about": "I built this app with my team at PT LinkIT 360 as a mobile developer. My contributions include:",
+    "about_list": [
+      "Built the mobile app in Flutter and integrated Firebase.",
+      "Delivered the PPOB product with online payment methods including QRIS, virtual accounts, and bank transfer.",
+      "Applied Clean Architecture with a feature-based code structure.",
+      "Released and maintained the app on the Google Play Store."
+    ],
+    "project_results": "This app is published on the Google Play Store. Results while I was on the project:",
+    "project_results_list": [
+      "Released on the Google Play Store for public use.",
+      "Kept the codebase maintainable with Clean Architecture."
+    ],
+    "project_gallery_list": [
+      "/images/myvia/gallery-1.webp",
+      "/images/myvia/gallery-2.webp",
+      "/images/myvia/gallery-3.webp",
+      "/images/myvia/gallery-4.webp",
+      "/images/myvia/gallery-5.webp"
+    ],
+    "slug": "functional-apps-for-ppob-payment",
+    "banner": "/images/myvia/banner-myvia.webp",
+    "featured": true
   }
 ]

@@ -4,6 +4,7 @@ import projects from '../../portfolio.json'
 import Button from './Button'
 import ArrowTopRight from './ArrowTopRight'
 import PreFooter from './PreFooter'
+import NextProject from './NextProject'
 import StackTags from './StackTags'
 import {logAnalyticsEvent} from "../util/firebase";
 
@@ -221,6 +222,8 @@ const ProjectDetails = () => {
                     </div>
                 </div>
             </section>
+            <hr className="my-12"/>
+            <NextProject slug={selectedProject.slug}/>
             <hr className="my-12"/>
             <PreFooter/>
         </>

@@ -25,7 +25,7 @@ const Resume = () => {
                     </h1>
                     <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
                         My name is <b>Dimas Fahrul</b>, a <b>mobile developer</b> based in Sidoarjo, Indonesia.
-                        Passionate about creating <b>user-friendly, intuitive and delightful digital experiences</b>.
+                        Experienced in <b>Flutter</b> and <b>Golang</b>, from real-time features to releases on the Play Store and App Store.
                     </p>
                 </div>
             </section>

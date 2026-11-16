@@ -6,13 +6,22 @@
     "endYear": "Present",
     "company": "PT LinkIT 360",
     "logo": "/images/linkit.png",
-    "description": "Working as a mobile developer at a startup that builds mobile applications for various clients."
+    "description": "Maintain 5 concurrent Flutter apps for a financial services ecosystem, including a PPOB product with QRIS, VA, and bank payments. Built a Golang (Fiber) microservices backend that integrates 8+ payment gateways, and led a refactoring that improved maintainability by 80% with Clean Architecture."
+  },
+  {
+    "id": 7,
+    "title": "Mobile Developer (Freelance)",
+    "startYear": "Apr 2025",
+    "endYear": "Dec 2025",
+    "company": "PT Shelter Indonesia",
+    "logo": "/images/shelter.png",
+    "description": "Built SellGo, an enterprise app for field sales teams, from scratch. It has GPS tracking, secure camera-based attendance, activity and sales records, and KPI scores, built with Clean Architecture and Flutter BLoC. Also wrote the proposals, man-day estimates, and reports."
   },
   {
     "id": 2,
     "title": "Android Development Cohort",
     "startYear": "Sep 2024",
-    "endYear": "Jan 2025",
+    "endYear": "Dec 2024",
     "company": "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
     "logo": "/images/bangkit.png",
     "description": "Completed 9 courses, from beginner to expert level, with an average rating of 4 stars."
@@ -21,7 +30,7 @@
     "id": 3,
     "title": "Mobile Developer Intern",
     "startYear": "Aug 2024",
-    "endYear": "Jan 2025",
+    "endYear": "Dec 2024",
     "company": "PT Gerakan Ekonomi Indonesia Mandiri",
     "logo": "/images/geni.png",
     "description": "Integrated an LLM variant into a Flutter mobile app to build a chatbot focused on Islamic topics."
@@ -31,18 +40,18 @@
     "title": "Mobile Developer Intern",
     "startYear": "Jan 2024",
     "endYear": "Jun 2024",
-    "company": "AgileTeknik Alliance",
+    "company": "PT Maulidan Teknologi Kreatif (AgileTeknik)",
     "logo": "/images/agile-teknik.svg",
-    "description": "Developed mobile applications, learned design patterns and anti-patterns, and iteratively took products from MVP to MMP."
+    "description": "Developed 4 Flutter apps in 6 months, including one used by 100+ users. Took products from MVP to MMP, released them on the Google Play Store, and practiced Scrum, design patterns, and SOLID principles."
   },
   {
     "id": 5,
-    "title": "Lead of Mobile Developer Team",
+    "title": "Mobile Developer (Lead Group Member)",
     "startYear": "Mar 2023",
     "endYear": "Nov 2023",
     "company": "Agile PdBL",
     "logo": "/images/daily-healthy-habit.png",
-    "description": "Developed Flutter-based apps, integrated backend APIs, performed SQA testing, and collaborated with users to improve engagement."
+    "description": "Developed Flutter apps and integrated backend APIs. Reached a positive average NPS of 31% and a total benchmark of 7 McCall quality factors at the end of the sprint."
   },
   {
     "id": 6,

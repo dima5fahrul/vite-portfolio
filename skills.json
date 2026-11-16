@@ -2,30 +2,35 @@
   {
     "id": 0,
     "title": "Mobile Development",
-    "description": "Flutter, Dart, Android Native, Kotlin, Jetpack Compose, Firebase."
+    "description": "Flutter (Dart), Jetpack Compose, Kotlin and XML, Firebase, TensorFlow Lite."
   },
   {
     "id": 1,
-    "title": "Web Development",
-    "description": "HTML & CSS, Tailwind CSS, React, Vue.js, Node.js, MongoDB, Flask."
+    "title": "Software Engineering",
+    "description": "Clean Architecture, Microservices, SOLID Principles, OOP, Refactoring."
   },
   {
     "id": 2,
-    "title": "AI Basics",
-    "description": "Python, preprocessing, analytics, clustering, classification, and TensorFlow."
+    "title": "Backend & Cloud",
+    "description": "Golang (Fiber), Node JS, RabbitMQ, RESTful API, PostgreSQL, YugabyteDB, Firebase."
   },
   {
     "id": 3,
-    "title": "Fundamental Development",
-    "description": "Object-oriented Programming, Design Pattern, Clean Code, Anti-pattern, Agile Practices (Scrum, Lean, XP, Design Thinking)."
+    "title": "Web Development",
+    "description": "React JS, Next JS, Vue JS, Tailwind CSS, HTML/CSS."
   },
   {
     "id": 4,
+    "title": "Fundamental Development",
+    "description": "Agile Practices (Scrum, Lean, XP, Design Thinking), Agile Anti-pattern, Object-oriented Programming, SOLID Principle, Kanban."
+  },
+  {
+    "id": 5,
     "title": "Soft Skills",
     "description": "Problem Solving, Critical Thinking, Public Speaking, Teamwork, Time Management, Adaptability, Leadership."
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Language Proficiency",
     "description": "Indonesian (native), English (intermediate)."
   }

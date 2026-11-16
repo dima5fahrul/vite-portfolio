@@ -1,10 +1,22 @@
 [
   {
     "title": "<h2>About me</h2>",
-    "description": "<p class='text-gray-500'>An informatics engineering student with an interest in IT and a passion for software development. I have approximately two years of solid foundation in application development, especially in <b>mobile development</b>.<br><br>Trained by a talented management startup to become an <b>agile, communicative person who delivers working software</b>.</p>"
+    "description": "<p class='text-gray-500'>An analytical software engineer specializing in <b>Flutter (Dart) mobile apps</b>, with 3 years of experience, and <b>Golang backend systems</b> for the fintech industry. I refactor complex legacy systems with <b>Clean Architecture and SOLID principles</b> to improve scalability and security.<br><br>I manage the full application lifecycle, from real-time features to successful releases on the <b>Play Store and App Store</b>.</p>"
   },
   {
     "title": "<h2>Experience</h2>"
+  },
+  {
+    "title": "<h2>Education</h2>",
+    "description": "<p class='text-gray-500'><b>Electronics Engineering Polytechnic Institute of Surabaya</b><br>Bachelor's Degree in Information Engineering, GPA 3.63/4.00<br>Aug 2021 - Oct 2025</p><p class='text-gray-500'><b>Bangkit Academy led by Google, Tokopedia, Gojek, &amp; Traveloka</b><br>Android Development Specialties, Bangkit Cohort<br>Sep 2024 - Dec 2024</p>"
+  },
+  {
+    "title": "<h2>Achievements</h2>",
+    "description": "<ul class='text-gray-500 list-disc pl-5'><li><b>1st Winner of Hackathon</b>, IT FEST 4.0, Paramadina University (Sep 2024)</li><li><b>2nd Winner of Programmers Competition</b>, SWITCHFEST 2023, UIN Walisongo Semarang (Aug 2024)</li><li><b>1st Winner of Software Development</b>, CODE 2023, Amikom Yogyakarta (Aug 2023)</li><li><b>3rd Winner of Innovation Creation Competition</b>, KMIPN V (Aug 2023)</li><li><b>1st Winner of Application Using Google Technology</b>, WINACTION 2023, Widyatama University (Jul 2023)</li></ul>"
+  },
+  {
+    "title": "<h2>Certificates</h2>",
+    "description": "<ul class='text-gray-500 list-disc pl-5'><li><b>ETS TOEIC English Proficiency Test</b>, total score 745 (Jan 2024)</li><li><b>Learn Machine Learning Application for Android</b>, Dicoding (Oct 2024)</li><li><b>Learn Intermediate Android Application Development</b>, Dicoding (Oct 2024)</li></ul>"
   },
   {
     "title": "<h2>Skills</h2>"

@@ -1,5 +1,135 @@
 [
   {
+    "id": 14,
+    "title": "MinuteX - AI meeting notetaker app with a recorder device",
+    "description": "MinuteX is an AI meeting assistant that records, transcribes and summarizes meetings into clear, shareable minutes. Its mobile app captures conversations on the go and syncs recordings from the MinuteX clip-on recorder device.",
+    "image": "/images/minutex/preview-minutex.webp",
+    "url": "https://minutex.ai",
+    "category": "Company Project",
+    "company": "PT LinkIT 360",
+    "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [
+      "React Native",
+      "Expo",
+      "Kotlin",
+      "Swift",
+      "Bluetooth LE",
+      "Redux Toolkit"
+    ],
+    "about": "I built the MinuteX mobile app with the team at PT LinkIT 360, bringing the MinuteX web portal to Android and iOS with React Native and Expo. I owned the integration with the MinuteX recorder device. My contributions include:",
+    "about_list": [
+      "Built a native Expo module in Kotlin and Swift that connects the app to the MinuteX recorder device over Bluetooth Low Energy.",
+      "Controlled recording from the app, synced the device clock, and showed device status such as battery level and an ongoing-recording notification.",
+      "Synced recordings the device captured on its own: converted its Opus audio into Ogg files, uploaded them for AI transcription, and cleared them from the device.",
+      "Added Sign in with Apple, terms, privacy and AI consent screens, and in-app account deletion.",
+      "Kept the app launching on iOS 26, enabled background recording, and replaced blank-screen crashes with an error screen."
+    ],
+    "project_results": "The app is available in beta on Google Play and iOS TestFlight. Results while I was on the project:",
+    "project_results_list": [
+      "Recordings from the MinuteX device reach transcribed meeting minutes without a laptop.",
+      "Shipped releases 0.1 through 0.6.1 for Android and iOS, with over-the-air updates tied to each app version.",
+      "Covered the device audio codec and Ogg file writer with unit tests."
+    ],
+    "project_gallery_list": [
+      "/images/minutex/gallery-1.webp",
+      "/images/minutex/gallery-2.webp",
+      "/images/minutex/gallery-3.webp",
+      "/images/minutex/gallery-4.webp",
+      "/images/minutex/gallery-5.webp"
+    ],
+    "slug": "platform-apps-for-ai-meeting-minutes",
+    "banner": "/images/minutex/banner-minutex.webp",
+    "featured": true
+  },
+  {
+    "id": 15,
+    "title": "LullaDream - AI bedtime story app for children",
+    "description": "LullaDream turns a child's name, favourite animal or wildest dream into a one-of-a-kind bedtime story, narrated by a parent's own recorded voice or by AI voices. It runs on Android, iOS, tablets and the web.",
+    "image": "/images/lulladream/preview-lulladream.webp",
+    "url": "https://lulladream.ai",
+    "category": "Company Project",
+    "company": "PT LinkIT 360",
+    "client": "Public",
+    "role": "Mobile & Backend Developer",
+    "stack": [
+      "Flutter",
+      "BLoC",
+      "Go",
+      "Fiber",
+      "PostgreSQL",
+      "StoreKit",
+      "Firebase"
+    ],
+    "about": "I was the main contributor to the LullaDream Flutter app at PT LinkIT 360, and worked across the Go backend, the Next.js web app and the CMS wherever a mobile feature needed it. My contributions include:",
+    "about_list": [
+      "Built features across the Flutter app: library search and filters, a story player that keeps narrating in the background with notification controls, voice recordings, favorites, and notifications.",
+      "Designed tablet and foldable layouts with a navigation rail and a two-pane story player, while keeping the phone layout unchanged.",
+      "Built App Store in-app purchases end to end: StoreKit subscriptions and coin top-ups in the app, and backend endpoints that verify Apple-signed transactions, process App Store Server Notifications V2, and reconcile subscriptions every hour.",
+      "Split purchased coins from subscription coins in the backend ledger, so coins a parent buys never expire.",
+      "Added Google sign-in for Android through App Links in the app and web app, and Sign in with Apple on iOS."
+    ],
+    "project_results": "LullaDream is available on Google Play, and its iOS app supports App Store subscriptions and coin top-ups. Results while I was on the project:",
+    "project_results_list": [
+      "Shipped app releases up to version 1.10, including big-screen support for tablets and foldables.",
+      "Handled App Store billing edge cases in the backend: refunds, billing retries, ended trials, and plan upgrades.",
+      "Made production the default build target, guarded by a test, so a store release can never point at staging."
+    ],
+    "project_gallery_list": [
+      "/images/lulladream/gallery-1.webp",
+      "/images/lulladream/gallery-2.webp",
+      "/images/lulladream/gallery-3.webp",
+      "/images/lulladream/gallery-4.webp",
+      "/images/lulladream/gallery-5.webp"
+    ],
+    "slug": "functional-apps-for-ai-bedtime-stories",
+    "banner": "/images/lulladream/banner-lulladream.webp",
+    "featured": true
+  },
+  {
+    "id": 16,
+    "title": "ISIPAS - Functional app for PPOB, fuel vouchers and rewards",
+    "description": "ISIPAS is a PPOB app for mobile credit, data, electricity, water bills, e-wallet and game top-ups. Users also buy MyPertamina fuel e-vouchers and collect Pastamp rewards for discounts on their next voucher.",
+    "image": "/images/isipas/preview-isipas.webp",
+    "url": "https://isipas-mobile-mvp.business404575.chatgpt.site/#home",
+    "category": "Company Project",
+    "company": "PT LinkIT 360",
+    "client": "Public",
+    "role": "Mobile Developer",
+    "stack": [
+      "Flutter",
+      "BLoC",
+      "Clean Architecture",
+      "GraphQL",
+      "REST API",
+      "Sentry"
+    ],
+    "about": "I started the ISIPAS app at PT LinkIT 360 from my own Flutter boilerplate and connected it to the backend, while a teammate built most of the screens from the design mockup. My contributions include:",
+    "about_list": [
+      "Set up the app with Clean Architecture and BLoC, and kept each feature independent of the shared core code.",
+      "Connected sign-in, registration, PIN, biometrics and Google sign-in to the backend, first through the existing Via API and then through the ISIPAS API.",
+      "Wired the purchase flows for mobile credit, data, PLN, e-wallet and games to live products, with QRIS payment and invoices built from the order history.",
+      "Integrated MyPertamina e-voucher checkout and Pastamp redemption, and kept My Vouchers available offline in an encrypted on-device cache.",
+      "Added Sentry observability: a trace for every REST and GraphQL call, purchase-funnel metrics, and session replay that masks voucher codes, QR codes and electricity tokens."
+    ],
+    "project_results": "The app reached a signed alpha build for the Play Console. Results while I was on the project:",
+    "project_results_list": [
+      "Took the app from an empty project to a signed alpha release in under two weeks.",
+      "Made production the default build, with staging and an in-memory mock backend chosen per build, so a typo cannot point a release at the wrong server.",
+      "Gave the app its ISIPAS launcher icons and splash screens, including dark mode."
+    ],
+    "project_gallery_list": [
+      "/images/isipas/gallery-1.webp",
+      "/images/isipas/gallery-2.webp",
+      "/images/isipas/gallery-3.webp",
+      "/images/isipas/gallery-4.webp",
+      "/images/isipas/gallery-5.webp"
+    ],
+    "slug": "functional-apps-for-ppob-and-fuel-vouchers",
+    "banner": "/images/isipas/banner-isipas.webp",
+    "featured": false
+  },
+  {
     "id": 1,
     "title": "NikoMood - Functional app for mood tracking",
     "description": "NikoMood is an app that tracks and records mood changes. It helps identify patterns and factors that influence emotions, and offers interactive graphical analysis and AI-based summaries for valuable insights into mental well-being.",

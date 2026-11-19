@@ -15,8 +15,8 @@ const About = (props: any, ref: any) => {
             I manage the full application lifecycle, from real-time features to releases on the <b>Play Store and App Store</b>.
           </p>
         </div>
-        <div className="relative lg:block hidden lg:mt-0 lg:col-span-6 max-w-sm justify-self-end self-end mr-6">
-          <img src="/images/2.webp" alt="about-1" className="transition-all duration-700 opacity-0 animating-image rounded" />
+        <div className="relative lg:mt-0 lg:col-span-6 lg:max-w-sm lg:justify-self-end self-end lg:mr-6">
+          <img src="/images/7.webp" alt="about-1" className="transition-all duration-700 opacity-0 animating-image rounded" />
           <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
         </div>
         <div className="relative lg:col-span-8 lg:justify-self-end self-start lg:max-w-lg">
@@ -24,7 +24,7 @@ const About = (props: any, ref: any) => {
           <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
         </div>
         <div className="relative lg:col-span-4 lg:justify-self-end lg:max-w-sm">
-          <img src="/images/7.webp" alt="about-3" className="animating-image rounded" />
+          <img src="/images/2.webp" alt="about-3" className="animating-image rounded" />
           <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
         </div>
         <img

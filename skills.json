@@ -2,17 +2,17 @@
   {
     "id": 0,
     "title": "Mobile Development",
-    "description": "Flutter (Dart), Jetpack Compose, Kotlin and XML, Firebase, TensorFlow Lite."
+    "description": "Flutter (Dart), React Native (Expo), Jetpack Compose, Kotlin and XML, Swift native modules, Bluetooth LE, In-app purchases (StoreKit), Firebase, TensorFlow Lite."
   },
   {
     "id": 1,
     "title": "Software Engineering",
-    "description": "Clean Architecture, Microservices, SOLID Principles, OOP, Refactoring."
+    "description": "Clean Architecture, Microservices, SOLID Principles, OOP, Refactoring, Observability (Sentry)."
   },
   {
     "id": 2,
     "title": "Backend & Cloud",
-    "description": "Golang (Fiber), Node JS, RabbitMQ, RESTful API, PostgreSQL, YugabyteDB, Firebase."
+    "description": "Golang (Fiber), Node JS, RabbitMQ, RESTful API, GraphQL, PostgreSQL, YugabyteDB, Firebase."
   },
   {
     "id": 3,

@@ -6,7 +6,7 @@
     "endYear": "Present",
     "company": "PT LinkIT 360",
     "logo": "/images/linkit.png",
-    "description": "Maintain 5 concurrent Flutter apps for a financial services ecosystem, including a PPOB product with QRIS, VA, and bank payments. Built a Golang (Fiber) microservices backend that integrates 8+ payment gateways, and led a refactoring that improved maintainability by 80% with Clean Architecture."
+    "description": "Build and maintain Flutter PPOB apps with QRIS, VA, and bank payments. Built App Store in-app purchases end to end, from StoreKit in the app to the Go backend, and native Kotlin and Swift modules that connect a React Native app to a Bluetooth LE recording device. Built a Golang (Fiber) microservices backend that integrates 8+ payment gateways, and led a refactoring that improved maintainability by 80% with Clean Architecture."
   },
   {
     "id": 7,
@@ -15,7 +15,7 @@
     "endYear": "Dec 2025",
     "company": "PT Shelter Indonesia",
     "logo": "/images/shelter.png",
-    "description": "Built SellGo, an enterprise app for field sales teams, from scratch. It has GPS tracking, secure camera-based attendance, activity and sales records, and KPI scores, built with Clean Architecture and Flutter BLoC. Also wrote the proposals, man-day estimates, and reports."
+    "description": "Built an enterprise app for field sales teams from scratch. It has GPS tracking, secure camera-based attendance, activity and sales records, and KPI scores, built with Clean Architecture and Flutter BLoC. Also wrote the proposals, man-day estimates, and reports."
   },
   {
     "id": 2,

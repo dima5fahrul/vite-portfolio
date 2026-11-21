@@ -10,7 +10,7 @@ const About = (props: any, ref: any) => {
             About me
           </h2>
           <p className="lg:max-w-2xl mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            I'm an analytical software engineer with 3 years of experience in <b>Flutter mobile development</b> and <b>Golang backend systems</b> for fintech. I refactor legacy systems with <b>Clean Architecture and SOLID principles</b>.
+            I'm an analytical software engineer with 3 years of experience in <b>mobile development</b> and <b>Golang backend systems</b> for fintech. I refactor legacy systems with <b>Clean Architecture and SOLID principles</b>.
           </p>
           <p className="lg:max-w-2xl font-normal leading-relaxed text-gray-500 text-xl">
             I manage the full application lifecycle, from real-time features to releases on the <b>Play Store and App Store</b>.

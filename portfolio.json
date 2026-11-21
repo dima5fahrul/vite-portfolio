@@ -84,7 +84,7 @@
     ],
     "slug": "functional-apps-for-ai-bedtime-stories",
     "banner": "/images/lulladream/banner-lulladream.webp",
-    "featured": true
+    "featured": false
   },
   {
     "id": 16,
@@ -127,7 +127,7 @@
     ],
     "slug": "functional-apps-for-ppob-and-fuel-vouchers",
     "banner": "/images/isipas/banner-isipas.webp",
-    "featured": false
+    "featured": true
   },
   {
     "id": 1,
@@ -446,7 +446,7 @@
     ],
     "slug": "functional-apps-for-ai-study-companion",
     "banner": "/images/heymika/banner-heymika.webp",
-    "featured": false
+    "featured": true
   },
   {
     "id": 9,
@@ -487,7 +487,7 @@
     ],
     "slug": "functional-apps-for-field-sales-management",
     "banner": "/images/sellgo/banner-sellgo.webp",
-    "featured": true
+    "featured": false
   },
   {
     "id": 10,
@@ -523,7 +523,7 @@
     ],
     "slug": "platform-apps-for-low-emission-travel",
     "banner": "/images/ubiis/banner-ubiis.webp",
-    "featured": true
+    "featured": false
   },
   {
     "id": 11,
@@ -633,6 +633,6 @@
     ],
     "slug": "functional-apps-for-ppob-payment",
     "banner": "/images/myvia/banner-myvia.webp",
-    "featured": true
+    "featured": false
   }
 ]

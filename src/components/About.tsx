@@ -1,4 +1,5 @@
 import { forwardRef } from 'react'
+import { logAnalyticsEvent } from '../util/firebase'
 
 const About = (props: any, ref: any) => {
   return (
@@ -14,6 +15,15 @@ const About = (props: any, ref: any) => {
           <p className="lg:max-w-2xl font-normal leading-relaxed text-gray-500 text-xl">
             I manage the full application lifecycle, from real-time features to releases on the <b>Play Store and App Store</b>.
           </p>
+          <a
+            href="/files/dimas-fahrul-portfolio.pdf"
+            download="Dimas Fahrul - Portfolio.pdf"
+            className="mt-8 font-semibold md:text-2xl text-xl inline-flex items-center gap-2 group dark:text-gray-300"
+            onClick={() => logAnalyticsEvent('portfolio_pdf_downloaded')}
+          >
+            Download portfolio PDF
+            <i className="las la-download text-3xl group-hover:translate-y-1 transition-all duration-200" />
+          </a>
         </div>
         <div className="relative lg:mt-0 lg:col-span-6 lg:max-w-sm lg:justify-self-end self-end lg:mr-6">
           <img src="/images/7.webp" alt="about-1" className="transition-all duration-700 opacity-0 animating-image rounded" />

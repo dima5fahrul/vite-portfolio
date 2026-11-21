@@ -43,26 +43,6 @@ const Portfolio = () => {
                     <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
                         Here are some of the projects I've worked on.
                     </p>
-                    <a
-                        href="/files/dimas-fahrul-portfolio.pdf"
-                        download="Dimas Fahrul - Portfolio.pdf"
-                        className="
-              -mt-4
-              mb-12
-              font-semibold
-              md:text-2xl
-              text-xl
-              inline-flex
-              items-center
-              gap-2
-              group
-              dark:text-gray-300
-            "
-                        onClick={() => logAnalyticsEvent('portfolio_pdf_downloaded')}
-                    >
-                        Download PDF
-                        <i className="las la-download text-3xl group-hover:translate-y-1 transition-all duration-200"/>
-                    </a>
                 </div>
                 <div
                     className="mx-auto md:px-0 px-3 flex gap-x-5 md:justify-center overflow-auto w-full scrollbar-hide">

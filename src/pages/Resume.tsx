@@ -33,7 +33,7 @@ const Resume = () => {
                         className="-mt-4 font-semibold md:text-2xl text-xl inline-flex items-center gap-2 group dark:text-gray-300"
                         onClick={() => logAnalyticsEvent('cv_downloaded')}
                     >
-                        My CV
+                        Curriculum Vitae
                         <i className="las la-download text-3xl group-hover:translate-y-1 transition-all duration-200"/>
                     </a>
                 </div>

@@ -27,6 +27,15 @@ const Resume = () => {
                         My name is <b>Dimas Fahrul</b>, a <b>mobile developer</b> based in Sidoarjo, Indonesia.
                         Experienced in <b>Flutter</b>, <b>React Native</b> and <b>Golang</b>, from real-time features to releases on the Play Store and App Store.
                     </p>
+                    <a
+                        href="/files/dimas-fahrul-cv.pdf"
+                        download="Dimas Fahrul - CV.pdf"
+                        className="-mt-4 font-semibold md:text-2xl text-xl inline-flex items-center gap-2 group dark:text-gray-300"
+                        onClick={() => logAnalyticsEvent('cv_downloaded')}
+                    >
+                        My CV
+                        <i className="las la-download text-3xl group-hover:translate-y-1 transition-all duration-200"/>
+                    </a>
                 </div>
             </section>
             {
